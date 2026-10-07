@@ -1,0 +1,28 @@
+{
+ "n_pairs": 1042,
+ "n_images": 1686,
+ "n_groups": 781,
+ "max_group": 5,
+ "by_split": {
+  "train-train": 495,
+  "test-train": 290,
+  "train-val": 150,
+  "test-val": 47,
+  "test-test": 44,
+  "val-val": 16
+ },
+ "diff_disease": 318,
+ "diff_plant": 174,
+ "mask_dice_median": 0.893526615601044,
+ "mask_dice_mean": 0.8133717223942424,
+ "mask_dice_iqr": [
+  0.7607327529159144,
+  0.9477356221162969
+ ],
+ "n_lt08": 316,
+ "n_lt05": 94,
+ "test_with_trainval_dup": 279,
+ "test_in_any_dup": 342,
+ "same_disease_mask_dice_median": 0.9094525470938857,
+ "kept_2025_leaked": 210
+}

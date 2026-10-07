@@ -1,0 +1,1043 @@
+image_a,image_b,split_a,split_b,phash_hamming,thumb_corr,mask_dice,disease_a,disease_b
+apple_black_rot_1.jpg,apple_scab_66.jpg,train,test,2,0.9978559017181396,0.9014369560817648,apple black rot,apple scab
+apple_black_rot_6.jpg,apple_black_rot_144.jpg,train,test,0,0.9996683597564696,0.9551873679528522,apple black rot,apple black rot
+apple_black_rot_80.jpg,grape_black_rot_42.jpg,train,train,0,1.0,0.9386005560704356,apple black rot,grape black rot
+apple_mosaic_virus_google_0001.jpg,apple_mosaic_virus_google_0013.jpg,train,train,0,0.9980185031890868,0.9685204023962926,apple mosaic virus,apple mosaic virus
+apple_rust_162.jpg,apple_scab_76.jpg,train,train,0,0.9999999403953552,0.6311714228696866,apple rust,apple scab
+apple_rust_30.jpg,apple_scab_33.jpg,train,train,0,0.9987666606903076,0.4983061287342162,apple rust,apple scab
+apple_rust_64.jpg,apple_scab_62.jpg,train,train,0,1.000000238418579,0.7597471022128557,apple rust,apple scab
+apple_rust_78.jpg,apple_scab_65.jpg,train,train,0,1.0,0.629278951201748,apple rust,apple scab
+banana_anthracnose_Bing_0023.jpg,banana_anthracnose_Bing_0075.jpg,train,val,0,1.0,0.9311302415995556,banana anthracnose Bing,banana anthracnose Bing
+banana_anthracnose_Bing_0035.jpg,banana_anthracnose_Bing_0068.jpg,train,train,0,0.9996209144592284,0.91731683257107,banana anthracnose Bing,banana anthracnose Bing
+banana_anthracnose_Bing_0065.jpg,banana_anthracnose_Bing_0300.jpg,train,train,0,1.0,0.9543764004712514,banana anthracnose Bing,banana anthracnose Bing
+banana_black_leaf_streak_Baidu_0039.jpg,banana_black_leaf_streak_banana black sigatoka (102).jpg,train,train,0,0.9991858601570128,0.9490934449093444,banana black leaf streak Baidu,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Baidu_0039.jpg,banana_panama_disease_5.jpg,train,train,0,0.9998312592506408,0.959852423276874,banana black leaf streak Baidu,banana panama disease
+banana_black_leaf_streak_Baidu_0080.jpg,banana_cordana_leaf_spot_Baidu_0064.jpg,train,test,0,1.0,0.93764293337399,banana black leaf streak Baidu,banana cordana leaf spot Baidu
+banana_black_leaf_streak_Bing_0003.jpg,banana_black_leaf_streak_Bing_0073.jpg,train,train,0,0.999683141708374,0.9695816124977554,banana black leaf streak Bing,banana black leaf streak Bing
+banana_black_leaf_streak_Bing_0005.jpg,banana_black_leaf_streak_banana black sigatoka (30).jpg,train,train,0,1.0,0.9850004776917932,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Bing_0005.jpg,banana_black_leaf_streak_banana black sigatoka (34).jpg,train,train,2,0.998939573764801,0.98694045174538,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Bing_0029.jpg,banana_black_leaf_streak_banana black sigatoka (42).jpg,train,test,2,0.9956498146057128,0.9897053396266728,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Bing_0046.jpg,banana_black_leaf_streak_banana black sigatoka (7).jpg,train,train,0,1.0000001192092896,0.9760417351658228,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Bing_0056.jpg,banana_black_leaf_streak_banana black sigatoka (55).jpg,train,train,0,0.9970083832740784,0.9996107494218484,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Bing_0056.jpg,banana_black_leaf_streak_banana black sigatoka (9).jpg,train,train,0,1.0,0.9972601062282836,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Bing_0081.jpg,banana_black_leaf_streak_Bing_0018.jpg,train,val,0,1.0,0.8500607041683529,banana black leaf streak Bing,banana black leaf streak Bing
+banana_black_leaf_streak_Bing_0136.jpg,banana_cordana_leaf_spot_Bing_0008.jpg,train,train,0,0.9999245405197144,0.9693429767177278,banana black leaf streak Bing,banana cordana leaf spot Bing
+banana_black_leaf_streak_Bing_0165.jpg,banana_cordana_leaf_spot_Bing_0097.jpg,train,val,0,1.0,0.8738382770326674,banana black leaf streak Bing,banana cordana leaf spot Bing
+banana_black_leaf_streak_Bing_0403.jpg,banana_black_leaf_streak_banana black sigatoka (68).jpg,train,train,0,0.9996741414070128,0.9911361021535868,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Google_0072.jpg,banana_black_leaf_streak_Baidu_0056.jpg,train,test,0,0.997587502002716,0.9321697200196954,banana black leaf streak Google,banana black leaf streak Baidu
+banana_black_leaf_streak_banana black sigatoka (101).jpg,banana_black_leaf_streak_banana black sigatoka (51).jpg,train,train,0,1.0000001192092896,0.9853191661935274,banana black leaf streak banana black sigatoka (),banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_banana black sigatoka (102).jpg,banana_panama_disease_5.jpg,train,train,0,0.9993429780006408,0.9297519335066268,banana black leaf streak banana black sigatoka (),banana panama disease
+banana_black_leaf_streak_banana black sigatoka (15).jpg,banana_panama_disease_google_0062.jpg,train,train,0,0.9999105930328368,0.8942488519571398,banana black leaf streak banana black sigatoka (),banana panama disease
+banana_black_leaf_streak_banana black sigatoka (29).jpg,banana_black_leaf_streak_banana black sigatoka (6).jpg,train,train,0,0.9999341368675232,0.9825540823447312,banana black leaf streak banana black sigatoka (),banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_banana black sigatoka (30).jpg,banana_black_leaf_streak_banana black sigatoka (34).jpg,train,train,2,0.998939573764801,0.9862276353550194,banana black leaf streak banana black sigatoka (),banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_banana black sigatoka (4).jpg,banana_black_leaf_streak_banana black sigatoka (75).jpg,train,train,0,0.9991934299468994,0.9795491094456412,banana black leaf streak banana black sigatoka (),banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_banana black sigatoka (45).jpg,banana_cordana_leaf_spot_Bing_0087.jpg,train,train,0,1.0,0.8721402997754718,banana black leaf streak banana black sigatoka (),banana cordana leaf spot Bing
+banana_black_leaf_streak_banana black sigatoka (55).jpg,banana_black_leaf_streak_banana black sigatoka (9).jpg,train,train,0,0.9970083832740784,0.997252978490592,banana black leaf streak banana black sigatoka (),banana black leaf streak banana black sigatoka ()
+banana_bunchy_top_Bing_0006.jpg,banana_bunchy_top_Bing_0298.jpg,train,train,0,1.0,0.6520297312750143,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0019.jpg,banana_bunchy_top_Bing_0322.jpg,train,train,0,0.9983733892440796,0.6130012746347682,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0026.jpg,banana_bunchy_top_Bing_0247.jpg,train,train,0,1.0,0.0504454970024179,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0037.jpg,banana_bunchy_top_Bing_0276.jpg,train,val,0,0.9999999403953552,0.6172307115402643,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0045.jpg,banana_bunchy_top_Google_0031.jpg,train,train,0,1.0,0.1813766891891892,banana bunchy top Bing,banana bunchy top Google
+banana_bunchy_top_Bing_0052.jpg,banana_bunchy_top_Bing_0335.jpg,train,train,0,0.9999998807907104,0.9335394126738794,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0062.jpg,banana_bunchy_top_Bing_0020.jpg,train,test,0,1.0,0.6981023576768257,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0062.jpg,banana_bunchy_top_Bing_0165.jpg,train,test,0,1.0,0.3045207956600361,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0081.jpg,banana_bunchy_top_Bing_0251.jpg,train,val,0,0.9991810917854308,0.3063239074550128,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0083.jpg,banana_bunchy_top_Bing_0334.jpg,train,test,0,0.9999999403953552,0.7710843373493976,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0095.jpg,banana_bunchy_top_Google_0026.jpg,train,train,0,0.9999473690986632,0.7981711915535445,banana bunchy top Bing,banana bunchy top Google
+banana_bunchy_top_Bing_0119.jpg,banana_bunchy_top_Bing_0172.jpg,train,val,0,0.9994335174560548,0.7778850983270873,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0122.jpg,banana_bunchy_top_Bing_0245.jpg,train,train,0,1.0,0.8526403733686727,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0137.jpg,banana_bunchy_top_Bing_0343.jpg,train,train,0,1.0000001192092896,0.9273036500806768,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0141.jpg,banana_bunchy_top_Bing_0347.jpg,train,train,0,1.0000001192092896,0.8189351366796838,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0141.jpg,banana_bunchy_top_Google_0159.jpg,train,train,0,0.9991494417190552,0.8153050286619751,banana bunchy top Bing,banana bunchy top Google
+banana_bunchy_top_Bing_0189.jpg,banana_bunchy_top_Bing_0152.jpg,train,test,0,0.9999998807907104,0.612639009122994,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0205.jpg,banana_bunchy_top_Bing_0338.jpg,train,train,0,0.9972490072250366,0.4875052352366327,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0205.jpg,banana_bunchy_top_Bing_0140.jpg,train,test,0,0.9972490072250366,0.5696969696969697,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0216.jpg,banana_bunchy_top_Google_0295.jpg,train,train,0,0.999691128730774,0.324716615980094,banana bunchy top Bing,banana bunchy top Google
+banana_bunchy_top_Bing_0242.jpg,banana_bunchy_top_Bing_0345.jpg,train,train,0,1.0,0.7939737118552871,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0338.jpg,banana_bunchy_top_Bing_0140.jpg,train,test,0,0.999999701976776,0.8098045299410487,banana bunchy top Bing,banana bunchy top Bing
+banana_bunchy_top_Bing_0347.jpg,banana_bunchy_top_Google_0159.jpg,train,train,0,0.9991494417190552,0.9552452955134928,banana bunchy top Bing,banana bunchy top Google
+banana_cigar_end_rot_Bing_0004.jpg,banana_cigar_end_rot_Google_0018.jpg,train,train,0,0.9999999403953552,0.9664367816091954,banana cigar end rot Bing,banana cigar end rot Google
+banana_cigar_end_rot_Bing_0011.jpg,banana_cigar_end_rot_Google_0035.jpg,train,train,0,0.9999999403953552,0.985280335189371,banana cigar end rot Bing,banana cigar end rot Google
+banana_cigar_end_rot_Bing_0073.jpg,banana_cigar_end_rot_Google_0028.jpg,train,train,0,0.999930500984192,0.954950727358048,banana cigar end rot Bing,banana cigar end rot Google
+banana_cigar_end_rot_Google_0010.jpg,banana_cigar_end_rot_Bing_0002.jpg,train,test,0,1.0,0.9778481012658228,banana cigar end rot Google,banana cigar end rot Bing
+banana_cordana_leaf_spot_Bing_0005.jpg,banana_cordana_leaf_spot_Google_0014.jpg,train,train,0,0.9999999403953552,0.8737828403453978,banana cordana leaf spot Bing,banana cordana leaf spot Google
+banana_panama_disease_109.jpg,banana_panama_disease_25.jpg,train,train,4,0.9680967330932616,0.7757631397750746,banana panama disease,banana panama disease
+bean_halo_blight_google_0032.jpg,grape_leaf_spot_google_0060.jpg,train,train,0,0.9999998807907104,0.5811817994646902,bean halo blight,grape leaf spot
+bean_halo_blight_google_0032.jpg,potato_early_blight_google_0071.jpg,train,val,0,0.9999998807907104,0.5344682285521658,bean halo blight,potato early blight
+bean_halo_blight_google_0078.jpg,potato_early_blight_google_0215.jpg,train,train,0,0.9998661875724792,0.6039596563317146,bean halo blight,potato early blight
+bean_mosaic_virus_google_0046.jpg,soybean_mosaic_Bing_0037.jpg,train,train,0,0.9999552369117736,0.9826957806599902,bean mosaic virus,soybean mosaic Bing
+bean_rust_182.jpg,soybean_rust_Baidu_0072.jpg,train,train,0,0.9996894001960754,0.994142688618762,bean rust,soybean rust Baidu
+bean_rust_202.jpg,soybean_rust_Baidu_0045.jpg,train,val,2,0.981253445148468,0.9541108462781842,bean rust,soybean rust Baidu
+bean_rust_4.jpg,soybean_rust_Baidu_0002.jpg,train,val,0,0.9999983310699464,0.7899362629989937,bean rust,soybean rust Baidu
+bean_rust_41.jpg,soybean_rust_Baidu_0035.jpg,train,train,0,0.9999876022338868,0.985167770891216,bean rust,soybean rust Baidu
+bean_rust_52.jpg,soybean_rust_Baidu_0058.jpg,train,train,0,0.9996549487113952,0.9749338315428928,bean rust,soybean rust Baidu
+bean_rust_google_0030.jpg,bean_rust_google_0130.jpg,train,test,0,0.9999997615814208,0.8834787313180497,bean rust,bean rust
+bell_pepper_bacterial_spot_Bing_0000.jpg,bell_pepper_bacterial_spot_Google_0000.jpg,train,train,0,1.0,0.8770073682221803,bell pepper bacterial spot Bing,bell pepper bacterial spot Google
+bell_pepper_bacterial_spot_Bing_0009.jpg,bell_pepper_bacterial_spot_Google_0024.jpg,train,train,0,1.0,0.8514448514448515,bell pepper bacterial spot Bing,bell pepper bacterial spot Google
+bell_pepper_bacterial_spot_Bing_0010.jpg,bell_pepper_bacterial_spot_Bing_0112.jpg,train,train,0,0.9998902082443236,0.7923913043478261,bell pepper bacterial spot Bing,bell pepper bacterial spot Bing
+bell_pepper_bacterial_spot_Bing_0013.jpg,bell_pepper_bacterial_spot_Google_0004.jpg,train,train,0,1.0,0.7750200160128102,bell pepper bacterial spot Bing,bell pepper bacterial spot Google
+bell_pepper_bacterial_spot_Bing_0020.jpg,bell_pepper_bacterial_spot_Google_0029.jpg,train,train,0,0.9970900416374208,0.8167556742323098,bell pepper bacterial spot Bing,bell pepper bacterial spot Google
+bell_pepper_bacterial_spot_Bing_0027.jpg,bell_pepper_bacterial_spot_Bing_0068.jpg,train,train,2,0.9992483854293824,0.8495713172252534,bell pepper bacterial spot Bing,bell pepper bacterial spot Bing
+bell_pepper_bacterial_spot_Bing_0044.jpg,bell_pepper_bacterial_spot_Bing_0227.jpg,train,val,2,0.998711109161377,0.807032590051458,bell pepper bacterial spot Bing,bell pepper bacterial spot Bing
+bell_pepper_bacterial_spot_Bing_0046.jpg,bell_pepper_frogeye_leaf_spot_Bing_0108.jpg,train,train,0,1.0000001192092896,0.7045454545454546,bell pepper bacterial spot Bing,bell pepper frogeye leaf spot Bing
+bell_pepper_bacterial_spot_Bing_0069.jpg,bell_pepper_bacterial_spot_Google_0160.jpg,train,val,0,1.000000238418579,0.6350906095551895,bell pepper bacterial spot Bing,bell pepper bacterial spot Google
+bell_pepper_bacterial_spot_Bing_0108.jpg,bell_pepper_bacterial_spot_Google_0008.jpg,train,train,0,1.0,0.8778801843317973,bell pepper bacterial spot Bing,bell pepper bacterial spot Google
+bell_pepper_bacterial_spot_Bing_0125.jpg,bell_pepper_bacterial_spot_Bing_0003.jpg,train,test,0,0.9940721392631532,0.8982642848093247,bell pepper bacterial spot Bing,bell pepper bacterial spot Bing
+bell_pepper_bacterial_spot_Google_0032.jpg,bell_pepper_bacterial_spot_Bing_0164.jpg,train,test,0,0.9982986450195312,0.7920872022607993,bell pepper bacterial spot Google,bell pepper bacterial spot Bing
+bell_pepper_bacterial_spot_Google_0050.jpg,bell_pepper_frogeye_leaf_spot_Google_0019.jpg,train,test,2,0.9992668628692628,0.8539771401912759,bell pepper bacterial spot Google,bell pepper frogeye leaf spot Google
+bell_pepper_bacterial_spot_Google_0061.jpg,bell_pepper_bacterial_spot_Bing_0019.jpg,train,test,2,0.998967468738556,0.8735777496839444,bell pepper bacterial spot Google,bell pepper bacterial spot Bing
+bell_pepper_blossom_end_rot_Bing_0001.jpg,bell_pepper_blossom_end_rot_Bing_0201.jpg,train,train,0,0.9998112916946412,0.8578771524029812,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Bing_0003.jpg,bell_pepper_blossom_end_rot_Google_0006.jpg,train,train,0,1.0000001192092896,0.9206349206349206,bell pepper blossom end rot Bing,bell pepper blossom end rot Google
+bell_pepper_blossom_end_rot_Bing_0010.jpg,bell_pepper_blossom_end_rot_Bing_0052.jpg,train,train,0,0.9998207092285156,0.9200779727095516,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Bing_0016.jpg,bell_pepper_blossom_end_rot_Bing_0049.jpg,train,train,0,0.9999037981033324,0.9433665443104352,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Bing_0024.jpg,bell_pepper_blossom_end_rot_Bing_0062.jpg,train,train,0,0.9999256730079652,0.9545419224492968,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Bing_0025.jpg,bell_pepper_blossom_end_rot_Google_0044.jpg,train,test,0,0.9997575283050536,0.8037487760525948,bell pepper blossom end rot Bing,bell pepper blossom end rot Google
+bell_pepper_blossom_end_rot_Bing_0076.jpg,bell_pepper_blossom_end_rot_Google_0038.jpg,train,train,0,0.9996376037597656,0.9626808834729628,bell pepper blossom end rot Bing,bell pepper blossom end rot Google
+bell_pepper_blossom_end_rot_Bing_0076.jpg,bell_pepper_blossom_end_rot_Bing_0008.jpg,train,test,0,0.9996376037597656,0.9402661714639432,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Bing_0104.jpg,bell_pepper_blossom_end_rot_Bing_0006.jpg,train,val,0,0.9991949200630188,0.961376533040454,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Bing_0135.jpg,bell_pepper_blossom_end_rot_Bing_0083.jpg,train,test,0,0.9998373985290528,0.8957142857142857,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Bing_0143.jpg,bell_pepper_blossom_end_rot_Google_0294.jpg,train,train,0,1.0,0.9795765411279744,bell pepper blossom end rot Bing,bell pepper blossom end rot Google
+bell_pepper_blossom_end_rot_Bing_0143.jpg,bell_pepper_blossom_end_rot_Bing_0112.jpg,train,test,0,0.9999102354049684,0.9774663889414884,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Google_0038.jpg,bell_pepper_blossom_end_rot_Bing_0008.jpg,train,test,0,0.9999999403953552,0.9583267809403996,bell pepper blossom end rot Google,bell pepper blossom end rot Bing
+bell_pepper_blossom_end_rot_Google_0294.jpg,bell_pepper_blossom_end_rot_Bing_0112.jpg,train,test,0,0.9999102354049684,0.9702560240963856,bell pepper blossom end rot Google,bell pepper blossom end rot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0000.jpg,bell_pepper_frogeye_leaf_spot_Google_0000.jpg,train,train,0,1.0,0.8036086051353227,bell pepper frogeye leaf spot Bing,bell pepper frogeye leaf spot Google
+bell_pepper_frogeye_leaf_spot_Bing_0001.jpg,bell_pepper_frogeye_leaf_spot_Bing_0066.jpg,train,train,0,0.999661922454834,0.9154228855721394,bell pepper frogeye leaf spot Bing,bell pepper frogeye leaf spot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0007.jpg,soybean_frog_eye_leaf_spot_Bing_0217.jpg,train,train,0,1.0,0.1130461350443018,bell pepper frogeye leaf spot Bing,soybean frog eye leaf spot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0007.jpg,tobacco_frogeye_leaf_spot_Bing_0002.jpg,train,test,0,1.0,0.5921638468388246,bell pepper frogeye leaf spot Bing,tobacco frogeye leaf spot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0010.jpg,tobacco_frogeye_leaf_spot_Bing_0005.jpg,train,train,0,0.9999997615814208,0.6167800453514739,bell pepper frogeye leaf spot Bing,tobacco frogeye leaf spot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0016.jpg,soybean_frog_eye_leaf_spot_Bing_0009.jpg,train,train,0,1.0000001192092896,0.5244492208490059,bell pepper frogeye leaf spot Bing,soybean frog eye leaf spot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0036.jpg,soybean_frog_eye_leaf_spot_Bing_0154.jpg,train,train,0,1.0,0.8786333503314635,bell pepper frogeye leaf spot Bing,soybean frog eye leaf spot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0161.jpg,soybean_frog_eye_leaf_spot_Bing_0224.jpg,train,test,0,0.9999998807907104,0.2833990600183674,bell pepper frogeye leaf spot Bing,soybean frog eye leaf spot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0183.jpg,tobacco_frogeye_leaf_spot_Bing_0274.jpg,train,train,0,0.999594748020172,0.728673637864612,bell pepper frogeye leaf spot Bing,tobacco frogeye leaf spot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0216.jpg,soybean_frog_eye_leaf_spot_Bing_0124.jpg,train,train,0,1.0000001192092896,0.6076103500761035,bell pepper frogeye leaf spot Bing,soybean frog eye leaf spot Bing
+bell_pepper_powdery_mildew_Bing_0007.jpg,bell_pepper_powdery_mildew_Google_0005.jpg,train,val,0,0.9997301697731018,0.9004884856943475,bell pepper powdery mildew Bing,bell pepper powdery mildew Google
+bell_pepper_powdery_mildew_Bing_0031.jpg,bell_pepper_powdery_mildew_Bing_0107.jpg,train,train,0,0.9999000430107116,0.9169891284319144,bell pepper powdery mildew Bing,bell pepper powdery mildew Bing
+bell_pepper_powdery_mildew_Bing_0062.jpg,bell_pepper_powdery_mildew_Google_0012.jpg,train,test,0,1.0,0.3584714237402773,bell pepper powdery mildew Bing,bell pepper powdery mildew Google
+bell_pepper_powdery_mildew_Bing_0143.jpg,bell_pepper_powdery_mildew_Bing_0036.jpg,train,val,0,0.9998443126678468,0.9609390543139466,bell pepper powdery mildew Bing,bell pepper powdery mildew Bing
+bell_pepper_powdery_mildew_Bing_0143.jpg,bell_pepper_powdery_mildew_Bing_0001.jpg,train,test,0,0.9998209476470948,0.9661981039555412,bell pepper powdery mildew Bing,bell pepper powdery mildew Bing
+blueberry_anthracnose_Bing_0000.jpg,blueberry_anthracnose_Google_0003.jpg,train,train,0,1.0,0.8808701657458563,blueberry anthracnose Bing,blueberry anthracnose Google
+blueberry_anthracnose_Bing_0001.jpg,blueberry_anthracnose_Bing_0029.jpg,train,val,0,0.999075412750244,0.6968152866242038,blueberry anthracnose Bing,blueberry anthracnose Bing
+blueberry_anthracnose_Bing_0017.jpg,blueberry_anthracnose_Bing_0063.jpg,train,train,0,0.9996868968009948,0.7540291437104165,blueberry anthracnose Bing,blueberry anthracnose Bing
+blueberry_anthracnose_Bing_0037.jpg,blueberry_rust_google_0127.jpg,train,train,0,0.9999524354934692,0.6235990037359901,blueberry anthracnose Bing,blueberry rust
+blueberry_anthracnose_Bing_0052.jpg,blueberry_anthracnose_Bing_0114.jpg,train,train,4,0.9803920984268188,0.9185160649221596,blueberry anthracnose Bing,blueberry anthracnose Bing
+blueberry_anthracnose_Bing_0053.jpg,blueberry_anthracnose_Bing_0078.jpg,train,train,0,0.9997863173484802,0.7374600885776084,blueberry anthracnose Bing,blueberry anthracnose Bing
+blueberry_anthracnose_Bing_0055.jpg,blueberry_anthracnose_Google_0011.jpg,train,train,0,1.0,0.7398653109731942,blueberry anthracnose Bing,blueberry anthracnose Google
+blueberry_botrytis_blight_Bing_0004.jpg,blueberry_botrytis_blight_Bing_0035.jpg,train,train,0,0.9998200535774232,0.8727234445731129,blueberry botrytis blight Bing,blueberry botrytis blight Bing
+blueberry_botrytis_blight_Bing_0012.jpg,blueberry_botrytis_blight_Bing_0036.jpg,train,train,0,0.9995055198669434,0.903155996393147,blueberry botrytis blight Bing,blueberry botrytis blight Bing
+blueberry_mummy_berry_Bing_0001.jpg,blueberry_mummy_berry_Bing_0058.jpg,train,train,0,1.0,0.0,blueberry mummy berry Bing,blueberry mummy berry Bing
+blueberry_mummy_berry_Bing_0001.jpg,blueberry_mummy_berry_Bing_0330.jpg,train,train,0,0.9998409152030944,0.9765231168082962,blueberry mummy berry Bing,blueberry mummy berry Bing
+blueberry_mummy_berry_Bing_0027.jpg,blueberry_mummy_berry_Bing_0087.jpg,train,train,0,0.999927282333374,0.9748625294579732,blueberry mummy berry Bing,blueberry mummy berry Bing
+blueberry_mummy_berry_Bing_0058.jpg,blueberry_mummy_berry_Bing_0330.jpg,train,train,0,0.9998409152030944,0.0,blueberry mummy berry Bing,blueberry mummy berry Bing
+blueberry_scorch_Google_0081.jpg,blueberry_scorch_Bing_0011.jpg,train,test,0,1.0,0.98215216780973,blueberry scorch Google,blueberry scorch Bing
+broccoli_alternaria_leaf_spot_Bing_0005.jpg,broccoli_alternaria_leaf_spot_Google_0007.jpg,train,train,0,1.000000238418579,0.9721580279520192,broccoli alternaria leaf spot Bing,broccoli alternaria leaf spot Google
+broccoli_alternaria_leaf_spot_Bing_0005.jpg,broccoli_ring_spot_Bing_0008.jpg,train,train,0,1.000000238418579,0.9723512497235124,broccoli alternaria leaf spot Bing,broccoli ring spot Bing
+broccoli_alternaria_leaf_spot_Bing_0005.jpg,cabbage_alternaria_leaf_spot_google_0001.jpg,train,train,0,0.9999522566795348,0.9172878586745634,broccoli alternaria leaf spot Bing,cabbage alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0005.jpg,cauliflower_alternaria_leaf_spot_google_0000.jpg,train,val,0,0.9999522566795348,0.9307343885184995,broccoli alternaria leaf spot Bing,cauliflower alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0013.jpg,cabbage_alternaria_leaf_spot_google_0054.jpg,train,train,0,0.997395157814026,0.4412431639322395,broccoli alternaria leaf spot Bing,cabbage alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0017.jpg,broccoli_alternaria_leaf_spot_Bing_0039.jpg,train,train,0,0.9990854859352112,0.0,broccoli alternaria leaf spot Bing,broccoli alternaria leaf spot Bing
+broccoli_alternaria_leaf_spot_Bing_0017.jpg,tobacco_brown_spot_Bing_0003.jpg,train,test,0,1.0,0.8131920466722229,broccoli alternaria leaf spot Bing,tobacco brown spot Bing
+broccoli_alternaria_leaf_spot_Bing_0017.jpg,tobacco_brown_spot_Bing_0044.jpg,train,test,0,0.9990854859352112,0.7653376126404148,broccoli alternaria leaf spot Bing,tobacco brown spot Bing
+broccoli_alternaria_leaf_spot_Bing_0020.jpg,broccoli_alternaria_leaf_spot_Bing_0054.jpg,train,test,0,0.9996120929718018,0.0,broccoli alternaria leaf spot Bing,broccoli alternaria leaf spot Bing
+broccoli_alternaria_leaf_spot_Bing_0035.jpg,broccoli_alternaria_leaf_spot_Bing_0019.jpg,train,test,0,0.9998369812965392,0.0,broccoli alternaria leaf spot Bing,broccoli alternaria leaf spot Bing
+broccoli_alternaria_leaf_spot_Bing_0037.jpg,broccoli_ring_spot_Bing_0010.jpg,train,train,0,0.9999999403953552,0.4369980614788147,broccoli alternaria leaf spot Bing,broccoli ring spot Bing
+broccoli_alternaria_leaf_spot_Bing_0039.jpg,tobacco_brown_spot_Bing_0003.jpg,train,test,0,0.9990854859352112,0.0,broccoli alternaria leaf spot Bing,tobacco brown spot Bing
+broccoli_alternaria_leaf_spot_Bing_0039.jpg,tobacco_brown_spot_Bing_0044.jpg,train,test,0,0.9999999403953552,0.0,broccoli alternaria leaf spot Bing,tobacco brown spot Bing
+broccoli_alternaria_leaf_spot_Bing_0042.jpg,cabbage_alternaria_leaf_spot_google_0065.jpg,train,val,0,0.999923825263977,0.4732681682957926,broccoli alternaria leaf spot Bing,cabbage alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0061.jpg,cabbage_alternaria_leaf_spot_google_0004.jpg,train,train,0,0.9997210502624512,0.6836190750612303,broccoli alternaria leaf spot Bing,cabbage alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0061.jpg,broccoli_alternaria_leaf_spot_Bing_0087.jpg,train,val,0,0.9996967911720276,0.90688100372476,broccoli alternaria leaf spot Bing,broccoli alternaria leaf spot Bing
+broccoli_alternaria_leaf_spot_Bing_0081.jpg,cabbage_alternaria_leaf_spot_google_0002.jpg,train,train,0,0.9998785853385924,0.8122944447766549,broccoli alternaria leaf spot Bing,cabbage alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0081.jpg,cauliflower_alternaria_leaf_spot_google_0011.jpg,train,train,0,0.9998785853385924,0.8039192539251564,broccoli alternaria leaf spot Bing,cauliflower alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0091.jpg,cabbage_alternaria_leaf_spot_google_0094.jpg,train,val,0,0.996890902519226,0.769556522762028,broccoli alternaria leaf spot Bing,cabbage alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0158.jpg,broccoli_ring_spot_Bing_0037.jpg,train,train,0,0.9995550513267516,0.9823363200918692,broccoli alternaria leaf spot Bing,broccoli ring spot Bing
+broccoli_alternaria_leaf_spot_Bing_0158.jpg,cauliflower_alternaria_leaf_spot_google_0004.jpg,train,train,0,0.9996289610862732,0.8833783609931816,broccoli alternaria leaf spot Bing,cauliflower alternaria leaf spot
+broccoli_alternaria_leaf_spot_Google_0007.jpg,broccoli_ring_spot_Bing_0008.jpg,train,train,0,1.000000238418579,0.9876888640179072,broccoli alternaria leaf spot Google,broccoli ring spot Bing
+broccoli_alternaria_leaf_spot_Google_0007.jpg,cabbage_alternaria_leaf_spot_google_0001.jpg,train,train,0,0.9999522566795348,0.9213297542845345,broccoli alternaria leaf spot Google,cabbage alternaria leaf spot
+broccoli_alternaria_leaf_spot_Google_0007.jpg,cauliflower_alternaria_leaf_spot_google_0000.jpg,train,val,0,0.9999522566795348,0.9217391304347826,broccoli alternaria leaf spot Google,cauliflower alternaria leaf spot
+broccoli_alternaria_leaf_spot_Google_0042.jpg,cauliflower_bacterial_soft_rot_Google_0186.jpg,train,train,0,1.0,0.4733921214803718,broccoli alternaria leaf spot Google,cauliflower bacterial soft rot Google
+broccoli_alternaria_leaf_spot_Google_0278.jpg,broccoli_alternaria_leaf_spot_Bing_0021.jpg,train,test,0,0.9999998807907104,0.0,broccoli alternaria leaf spot Google,broccoli alternaria leaf spot Bing
+broccoli_alternaria_leaf_spot_Google_0278.jpg,broccoli_alternaria_leaf_spot_Bing_0045.jpg,train,test,2,0.9953837394714355,0.0,broccoli alternaria leaf spot Google,broccoli alternaria leaf spot Bing
+broccoli_downy_mildew_google_0041.jpg,cabbage_downy_mildew_Bing_0021.jpg,train,train,0,0.9996832609176636,0.6422881168400089,broccoli downy mildew,cabbage downy mildew Bing
+broccoli_downy_mildew_google_0056.jpg,lettuce_downy_mildew_google_0002.jpg,train,train,0,0.9999998211860656,0.7694154256501444,broccoli downy mildew,lettuce downy mildew
+broccoli_ring_spot_Bing_0008.jpg,cabbage_alternaria_leaf_spot_google_0001.jpg,train,train,0,0.9999522566795348,0.9194067005497356,broccoli ring spot Bing,cabbage alternaria leaf spot
+broccoli_ring_spot_Bing_0008.jpg,cauliflower_alternaria_leaf_spot_google_0000.jpg,train,val,0,0.9999522566795348,0.9179632980098216,broccoli ring spot Bing,cauliflower alternaria leaf spot
+broccoli_ring_spot_Bing_0024.jpg,broccoli_alternaria_leaf_spot_Bing_0060.jpg,train,test,0,0.9996793866157532,0.8740996830884471,broccoli ring spot Bing,broccoli alternaria leaf spot Bing
+broccoli_ring_spot_Bing_0037.jpg,cauliflower_alternaria_leaf_spot_google_0004.jpg,train,train,0,0.9999103546142578,0.8857065743724896,broccoli ring spot Bing,cauliflower alternaria leaf spot
+broccoli_ring_spot_Bing_0054.jpg,cabbage_alternaria_leaf_spot_google_0000.jpg,train,train,0,0.9999387264251708,0.2942910541222712,broccoli ring spot Bing,cabbage alternaria leaf spot
+broccoli_ring_spot_Bing_0054.jpg,cauliflower_alternaria_leaf_spot_google_0001.jpg,train,train,0,0.9999387264251708,0.5109721867823425,broccoli ring spot Bing,cauliflower alternaria leaf spot
+broccoli_ring_spot_Bing_0054.jpg,broccoli_alternaria_leaf_spot_Bing_0012.jpg,train,val,0,1.0,0.0,broccoli ring spot Bing,broccoli alternaria leaf spot Bing
+broccoli_ring_spot_Bing_0054.jpg,broccoli_alternaria_leaf_spot_Google_0005.jpg,train,test,0,1.0,0.8965430388514577,broccoli ring spot Bing,broccoli alternaria leaf spot Google
+broccoli_ring_spot_Bing_0055.jpg,broccoli_alternaria_leaf_spot_Bing_0165.jpg,train,val,0,0.999728262424469,0.9747606614447344,broccoli ring spot Bing,broccoli alternaria leaf spot Bing
+broccoli_ring_spot_Bing_0055.jpg,broccoli_ring_spot_Bing_0020.jpg,train,val,0,0.999728262424469,0.9861853832442068,broccoli ring spot Bing,broccoli ring spot Bing
+broccoli_ring_spot_Google_0006.jpg,cauliflower_alternaria_leaf_spot_google_0118.jpg,train,train,2,0.9993671774864196,0.9062643590136314,broccoli ring spot Google,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_34.jpg,cauliflower_alternaria_leaf_spot_4.jpg,train,train,0,0.9999999403953552,0.2887937866539863,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_google_0000.jpg,cauliflower_alternaria_leaf_spot_google_0001.jpg,train,train,0,1.0,0.6469458546098763,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_google_0000.jpg,broccoli_alternaria_leaf_spot_Bing_0012.jpg,train,val,0,0.9999387264251708,0.0,cabbage alternaria leaf spot,broccoli alternaria leaf spot Bing
+cabbage_alternaria_leaf_spot_google_0000.jpg,broccoli_alternaria_leaf_spot_Google_0005.jpg,train,test,0,0.9999387264251708,0.2857640232108317,cabbage alternaria leaf spot,broccoli alternaria leaf spot Google
+cabbage_alternaria_leaf_spot_google_0001.jpg,cauliflower_alternaria_leaf_spot_google_0000.jpg,train,val,0,1.0,0.9374970019667098,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_google_0002.jpg,cauliflower_alternaria_leaf_spot_google_0011.jpg,train,train,0,0.9999997615814208,0.9161322898258016,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_google_0004.jpg,broccoli_alternaria_leaf_spot_Bing_0087.jpg,train,val,0,0.999954104423523,0.7063895957025728,cabbage alternaria leaf spot,broccoli alternaria leaf spot Bing
+cabbage_alternaria_leaf_spot_google_0013.jpg,cauliflower_alternaria_leaf_spot_google_0028.jpg,train,test,0,1.0,0.8437837189785398,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_google_0019.jpg,broccoli_alternaria_leaf_spot_Bing_0023.jpg,train,test,0,0.9999428987503052,0.0,cabbage alternaria leaf spot,broccoli alternaria leaf spot Bing
+cabbage_alternaria_leaf_spot_google_0047.jpg,cauliflower_alternaria_leaf_spot_google_0046.jpg,train,train,0,0.9999999403953552,0.9478750401073418,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_google_0047.jpg,grape_leaf_spot_google_0076.jpg,train,train,0,0.9992333054542542,0.9537017755750836,cabbage alternaria leaf spot,grape leaf spot
+cabbage_alternaria_leaf_spot_google_0052.jpg,cauliflower_alternaria_leaf_spot_google_0037.jpg,train,test,2,0.9817925691604614,0.8458003324533099,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_google_0072.jpg,cauliflower_alternaria_leaf_spot_google_0051.jpg,train,train,0,1.0,0.4103053435114503,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_alternaria_leaf_spot_google_0075.jpg,cauliflower_alternaria_leaf_spot_google_0061.jpg,train,test,0,0.9999999403953552,0.6658871794871795,cabbage alternaria leaf spot,cauliflower alternaria leaf spot
+cabbage_black_rot_Bing_0003.jpg,cabbage_black_rot_Bing_0035.jpg,train,train,0,0.9990475177764891,0.9093495934959348,cabbage black rot Bing,cabbage black rot Bing
+cabbage_black_rot_Bing_0005.jpg,cabbage_black_rot_Bing_0060.jpg,train,train,0,0.9981319308280944,0.7313361864003805,cabbage black rot Bing,cabbage black rot Bing
+cabbage_black_rot_Bing_0008.jpg,cabbage_black_rot_Bing_0044.jpg,train,train,2,0.9977579116821288,0.9461968886429318,cabbage black rot Bing,cabbage black rot Bing
+cabbage_black_rot_Bing_0009.jpg,cabbage_black_rot_Bing_0228.jpg,train,train,0,0.999153733253479,0.866225165562914,cabbage black rot Bing,cabbage black rot Bing
+cabbage_black_rot_Bing_0010.jpg,cabbage_black_rot_Bing_0038.jpg,train,train,0,0.9998897314071656,0.8729324634103333,cabbage black rot Bing,cabbage black rot Bing
+cabbage_black_rot_Bing_0012.jpg,cabbage_black_rot_Google_0049.jpg,train,val,0,1.0,0.9353378449985618,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0013.jpg,cabbage_black_rot_Google_0110.jpg,train,test,0,1.0,0.894481150408084,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0029.jpg,cabbage_black_rot_Google_0101.jpg,train,test,0,0.9994959831237792,0.9250489236790608,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0042.jpg,cabbage_black_rot_Google_0341.jpg,train,val,0,1.0000001192092896,0.8681970595821511,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0062.jpg,cabbage_black_rot_Google_0205.jpg,train,val,0,1.0,0.8707537154989384,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0065.jpg,cabbage_black_rot_Bing_0007.jpg,train,test,0,0.9993621706962584,0.7839579851993316,cabbage black rot Bing,cabbage black rot Bing
+cabbage_black_rot_Bing_0072.jpg,cabbage_black_rot_Bing_0135.jpg,train,train,0,0.9994311928749084,0.854262144821265,cabbage black rot Bing,cabbage black rot Bing
+cabbage_black_rot_Bing_0115.jpg,cabbage_black_rot_Google_0094.jpg,train,train,0,0.9998773336410522,0.9543583480345592,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0122.jpg,cabbage_black_rot_Google_0276.jpg,train,val,0,0.9997372031211852,0.7569839307787392,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0142.jpg,cabbage_black_rot_Google_0358.jpg,train,train,0,0.9997638463974,0.8952872081363702,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0149.jpg,cabbage_black_rot_Google_0208.jpg,train,test,0,0.9999996423721312,0.8632118107863814,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0178.jpg,cabbage_black_rot_Google_0247.jpg,train,train,0,1.0,0.9302538787023976,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0211.jpg,cabbage_black_rot_Google_0030.jpg,train,train,0,1.0,0.8729381185644307,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Bing_0218.jpg,cabbage_black_rot_Google_0175.jpg,train,train,2,0.976717174053192,0.6929918178584134,cabbage black rot Bing,cabbage black rot Google
+cabbage_black_rot_Google_0060.jpg,cabbage_black_rot_Bing_0218 - Copy.jpg,train,test,2,0.972280502319336,0.751101709853693,cabbage black rot Google,cabbage black rot Bing  - Copy
+cabbage_black_rot_Google_0090.jpg,cabbage_black_rot_Bing_0016.jpg,train,val,0,0.9998341798782348,0.9463375698409776,cabbage black rot Google,cabbage black rot Bing
+cabbage_black_rot_Google_0232.jpg,cabbage_black_rot_Bing_0015.jpg,train,test,0,1.0,0.9530507052383426,cabbage black rot Google,cabbage black rot Bing
+cabbage_downy_mildew_Bing_0004.jpg,cabbage_downy_mildew_Bing_0045.jpg,train,train,0,0.9998677968978882,0.808790663024584,cabbage downy mildew Bing,cabbage downy mildew Bing
+cabbage_downy_mildew_Bing_0009.jpg,cabbage_downy_mildew_Bing_0039.jpg,train,test,0,0.9966970086097716,0.8022095509622238,cabbage downy mildew Bing,cabbage downy mildew Bing
+cabbage_downy_mildew_Bing_0024.jpg,cabbage_downy_mildew_Bing_0160.jpg,train,train,2,0.9624098539352416,0.5983075727484674,cabbage downy mildew Bing,cabbage downy mildew Bing
+cabbage_downy_mildew_Bing_0093.jpg,cabbage_downy_mildew_Bing_0234.jpg,train,train,2,0.9989544749259948,0.7047245808839538,cabbage downy mildew Bing,cabbage downy mildew Bing
+cabbage_downy_mildew_Bing_0177.jpg,zucchini_downy_mildew_Bing_0114.jpg,train,train,0,1.0,0.506870613942934,cabbage downy mildew Bing,zucchini downy mildew Bing
+cabbage_downy_mildew_Bing_0180.jpg,broccoli_downy_mildew_google_0048.jpg,train,test,0,0.987911581993103,0.4157108850898074,cabbage downy mildew Bing,broccoli downy mildew
+carrot_alternaria_leaf_blight_Bing_0000.jpg,carrot_alternaria_leaf_blight_Google_0026.jpg,train,train,0,0.9996256828308104,0.7123644251626898,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Google
+carrot_alternaria_leaf_blight_Bing_0001.jpg,carrot_alternaria_leaf_blight_Bing_0146.jpg,train,train,0,0.9998614192008972,0.4223836859218819,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0001.jpg,carrot_cercospora_leaf_blight_Bing_0059.jpg,train,train,0,0.9997151494026184,0.903023927058887,carrot alternaria leaf blight Bing,carrot cercospora leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0003.jpg,carrot_alternaria_leaf_blight_Bing_0161.jpg,train,test,0,0.998603582382202,0.7593697524027296,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0010.jpg,carrot_alternaria_leaf_blight_Bing_0036.jpg,train,train,0,0.9986354112625122,0.8172900357591573,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0011.jpg,carrot_alternaria_leaf_blight_Bing_0075.jpg,train,test,0,0.9955391883850098,0.7696229837721233,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0034.jpg,carrot_alternaria_leaf_blight_Bing_0041.jpg,train,train,0,0.999216854572296,0.7604299508107123,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0059.jpg,carrot_alternaria_leaf_blight_Bing_0018.jpg,train,val,0,0.9996833801269532,0.6193700323815131,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0067.jpg,carrot_alternaria_leaf_blight_Bing_0014.jpg,train,test,0,0.995636224746704,0.6312869309512581,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0070.jpg,carrot_alternaria_leaf_blight_Bing_0023.jpg,train,val,0,0.9967660903930664,0.7799912867836349,carrot alternaria leaf blight Bing,carrot alternaria leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0146.jpg,carrot_cercospora_leaf_blight_Bing_0059.jpg,train,train,0,0.9997917413711548,0.4401855255097576,carrot alternaria leaf blight Bing,carrot cercospora leaf blight Bing
+carrot_alternaria_leaf_blight_Bing_0178.jpg,carrot_cercospora_leaf_blight_Bing_0011.jpg,train,train,0,1.0,0.822875816993464,carrot alternaria leaf blight Bing,carrot cercospora leaf blight Bing
+carrot_cercospora_leaf_blight_Bing_0082.jpg,carrot_cercospora_leaf_blight_Bing_0009.jpg,train,test,0,0.9995594024658204,0.6340443329150983,carrot cercospora leaf blight Bing,carrot cercospora leaf blight Bing
+carrot_cercospora_leaf_blight_Bing_0082.jpg,carrot_cercospora_leaf_blight_Bing_0055.jpg,train,test,0,0.9991876482963562,0.5887740973479604,carrot cercospora leaf blight Bing,carrot cercospora leaf blight Bing
+cauliflower_alternaria_leaf_spot_170.jpg,cauliflower_alternaria_leaf_spot_9.jpg,train,train,0,1.0000001192092896,0.8178586542530681,cauliflower alternaria leaf spot,cauliflower alternaria leaf spot
+cauliflower_alternaria_leaf_spot_google_0001.jpg,broccoli_alternaria_leaf_spot_Bing_0012.jpg,train,val,0,0.9999387264251708,0.0,cauliflower alternaria leaf spot,broccoli alternaria leaf spot Bing
+cauliflower_alternaria_leaf_spot_google_0001.jpg,broccoli_alternaria_leaf_spot_Google_0005.jpg,train,test,0,0.9999387264251708,0.4939809315912812,cauliflower alternaria leaf spot,broccoli alternaria leaf spot Google
+cauliflower_alternaria_leaf_spot_google_0012.jpg,cauliflower_bacterial_soft_rot_Bing_0033.jpg,train,train,0,0.9999746084213256,0.4482453055770448,cauliflower alternaria leaf spot,cauliflower bacterial soft rot Bing
+cauliflower_alternaria_leaf_spot_google_0021.jpg,cabbage_alternaria_leaf_spot_google_0026.jpg,train,test,0,0.9999998211860656,0.8298948336302512,cauliflower alternaria leaf spot,cabbage alternaria leaf spot
+cauliflower_alternaria_leaf_spot_google_0038.jpg,cauliflower_bacterial_soft_rot_Bing_0036.jpg,train,train,0,0.999781370162964,0.6669154693039746,cauliflower alternaria leaf spot,cauliflower bacterial soft rot Bing
+cauliflower_alternaria_leaf_spot_google_0038.jpg,cauliflower_bacterial_soft_rot_Bing_0001.jpg,train,val,2,0.9999420046806335,0.6781768330754404,cauliflower alternaria leaf spot,cauliflower bacterial soft rot Bing
+cauliflower_alternaria_leaf_spot_google_0046.jpg,grape_leaf_spot_google_0076.jpg,train,train,0,0.9992333054542542,0.926005126534774,cauliflower alternaria leaf spot,grape leaf spot
+cauliflower_alternaria_leaf_spot_google_0056.jpg,grape_leaf_spot_google_0036.jpg,train,train,0,0.9999999403953552,0.6285218899003034,cauliflower alternaria leaf spot,grape leaf spot
+cauliflower_alternaria_leaf_spot_google_0056.jpg,eggplant_cercospora_leaf_spot_google_0030.jpg,train,test,0,0.9999999403953552,0.9043227368746458,cauliflower alternaria leaf spot,eggplant cercospora leaf spot
+cauliflower_alternaria_leaf_spot_google_0056.jpg,tomato_bacterial_leaf_spot_google_0087.jpg,train,test,0,0.9999999403953552,0.6772952940353821,cauliflower alternaria leaf spot,tomato bacterial leaf spot
+cauliflower_alternaria_leaf_spot_google_0091.jpg,cauliflower_bacterial_soft_rot_Bing_0021.jpg,train,test,0,0.9999096989631652,0.7030865419979064,cauliflower alternaria leaf spot,cauliflower bacterial soft rot Bing
+cauliflower_alternaria_leaf_spot_google_0097.jpg,broccoli_ring_spot_Bing_0018.jpg,train,test,0,0.9998061656951904,0.844364764027522,cauliflower alternaria leaf spot,broccoli ring spot Bing
+cauliflower_alternaria_leaf_spot_google_0222.jpg,cabbage_alternaria_leaf_spot_google_0128.jpg,train,test,0,0.9999998807907104,0.6408681033165214,cauliflower alternaria leaf spot,cabbage alternaria leaf spot
+cauliflower_alternaria_leaf_spot_google_0230.jpg,cabbage_alternaria_leaf_spot_google_0148.jpg,train,test,0,1.0,0.888188773869993,cauliflower alternaria leaf spot,cabbage alternaria leaf spot
+cauliflower_alternaria_leaf_spot_google_0234.jpg,cabbage_alternaria_leaf_spot_google_0206.jpg,train,test,0,1.0,0.5581947743467933,cauliflower alternaria leaf spot,cabbage alternaria leaf spot
+cauliflower_alternaria_leaf_spot_google_0261.jpg,cabbage_alternaria_leaf_spot_google_0057.jpg,train,test,0,1.000000238418579,0.9169974524557142,cauliflower alternaria leaf spot,cabbage alternaria leaf spot
+cauliflower_bacterial_soft_rot_Bing_0012.jpg,cauliflower_bacterial_soft_rot_Bing_0041.jpg,train,train,0,0.9992464780807496,0.9674253497598664,cauliflower bacterial soft rot Bing,cauliflower bacterial soft rot Bing
+cauliflower_bacterial_soft_rot_Bing_0036.jpg,cauliflower_bacterial_soft_rot_Bing_0001.jpg,train,val,2,0.9997613430023192,0.9656432748538012,cauliflower bacterial soft rot Bing,cauliflower bacterial soft rot Bing
+cauliflower_bacterial_soft_rot_Bing_0082.jpg,cauliflower_bacterial_soft_rot_Google_0013.jpg,train,train,0,1.0,0.9156667306324712,cauliflower bacterial soft rot Bing,cauliflower bacterial soft rot Google
+cauliflower_bacterial_soft_rot_Bing_0137.jpg,cauliflower_bacterial_soft_rot_Google_0016.jpg,train,train,0,0.9993700981140136,0.8557834408679666,cauliflower bacterial soft rot Bing,cauliflower bacterial soft rot Google
+cauliflower_bacterial_soft_rot_Bing_0137.jpg,cauliflower_bacterial_soft_rot_Bing_0016.jpg,train,val,0,0.9993700981140136,0.74166,cauliflower bacterial soft rot Bing,cauliflower bacterial soft rot Bing
+cauliflower_bacterial_soft_rot_Google_0016.jpg,cauliflower_bacterial_soft_rot_Bing_0016.jpg,train,val,0,1.0,0.8439321212566194,cauliflower bacterial soft rot Google,cauliflower bacterial soft rot Bing
+cherry_leaf_spot_google_0085.jpg,soybean_frog_eye_leaf_spot_Google_0069.jpg,train,val,2,0.9961602091789246,0.5219277673545967,cherry leaf spot,soybean frog eye leaf spot Google
+cherry_powdery_mildew_google_0018.jpg,squash_powdery_mildew_google_0106.jpg,train,val,0,0.9999996423721312,0.974056355585776,cherry powdery mildew,squash powdery mildew
+cherry_powdery_mildew_google_0024.jpg,cherry_powdery_mildew_51.jpg,train,val,0,0.9946082830429076,0.9645030425963488,cherry powdery mildew,cherry powdery mildew
+citrus_canker_169.jpg,citrus_canker_202.jpg,train,train,4,0.9576873779296876,0.5708725267596497,citrus canker,citrus canker
+citrus_canker_169.jpg,citrus_canker_382.jpg,train,train,0,0.999732255935669,0.818908034594309,citrus canker,citrus canker
+citrus_canker_202.jpg,citrus_canker_382.jpg,train,train,4,0.9573380947113036,0.6582737435794138,citrus canker,citrus canker
+citrus_canker_225.jpg,citrus_canker_google_0037.jpg,train,train,2,0.975907564163208,0.7817535845704859,citrus canker,citrus canker
+citrus_canker_225.jpg,citrus_canker_37.jpg,train,val,2,0.969075322151184,0.7800336221388853,citrus canker,citrus canker
+citrus_canker_252.jpg,citrus_canker_59.jpg,train,train,0,0.9997433423995972,0.9402501157943493,citrus canker,citrus canker
+citrus_canker_259.jpg,citrus_canker_33.jpg,train,val,4,0.983630895614624,0.8655783632347395,citrus canker,citrus canker
+citrus_canker_279.jpg,citrus_canker_276.jpg,train,test,0,1.0,0.8201766657340421,citrus canker,citrus canker
+citrus_canker_306.jpg,citrus_canker_308.jpg,train,train,0,0.9999999403953552,0.6979099052317279,citrus canker,citrus canker
+citrus_canker_312.jpg,citrus_canker_285.jpg,train,test,2,0.9965779781341552,0.7575496117342536,citrus canker,citrus canker
+citrus_canker_371.jpg,citrus_canker_412.jpg,train,train,0,0.9998675584793092,0.7029308889156917,citrus canker,citrus canker
+citrus_canker_google_0302.jpg,citrus_canker_256.jpg,train,test,2,0.9798048734664916,0.8644804425128407,citrus canker,citrus canker
+coffee_berry_blotch_Bing_0000.jpg,coffee_berry_blotch_Google_0016.jpg,train,train,0,0.9999998807907104,0.9177489177489178,coffee berry blotch Bing,coffee berry blotch Google
+coffee_berry_blotch_Bing_0003.jpg,coffee_berry_blotch_Google_0044.jpg,train,train,0,1.0,0.7342863626049467,coffee berry blotch Bing,coffee berry blotch Google
+coffee_berry_blotch_Bing_0004.jpg,coffee_berry_blotch_Bing_0064.jpg,train,train,0,0.9997814893722534,0.769116186693148,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0005.jpg,coffee_berry_blotch_Bing_0045.jpg,train,train,0,0.999377429485321,0.8875739644970414,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0008.jpg,coffee_berry_blotch_Google_0026.jpg,train,train,0,0.9996879696846008,0.9218516674962668,coffee berry blotch Bing,coffee berry blotch Google
+coffee_berry_blotch_Bing_0008.jpg,coffee_brown_eye_spot_Google_0003.jpg,train,test,0,0.9996879696846008,0.908226343319068,coffee berry blotch Bing,coffee brown eye spot Google
+coffee_berry_blotch_Bing_0009.jpg,coffee_berry_blotch_Bing_0036.jpg,train,train,0,0.9998955130577089,0.9431877050595752,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0009.jpg,coffee_berry_blotch_Google_0010.jpg,train,train,0,0.9998955130577089,0.8840900701365818,coffee berry blotch Bing,coffee berry blotch Google
+coffee_berry_blotch_Bing_0014.jpg,coffee_berry_blotch_Bing_0066.jpg,train,train,0,0.9996229410171508,0.9303971686983876,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0016.jpg,coffee_berry_blotch_Bing_0046.jpg,train,train,0,0.9997036457061768,0.9539857420609202,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0025.jpg,coffee_brown_eye_spot_Bing_0008.jpg,train,train,0,1.0,0.9190556492411468,coffee berry blotch Bing,coffee brown eye spot Bing
+coffee_berry_blotch_Bing_0025.jpg,coffee_brown_eye_spot_Google_0011.jpg,train,train,0,0.9996844530105592,0.9073593073593074,coffee berry blotch Bing,coffee brown eye spot Google
+coffee_berry_blotch_Bing_0026.jpg,coffee_berry_blotch_Bing_0072.jpg,train,train,0,0.9999751448631288,0.9431643625192012,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0026.jpg,coffee_berry_blotch_Bing_0123.jpg,train,train,0,0.9996175765991212,0.8775448192038894,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0028.jpg,coffee_berry_blotch_Bing_0118.jpg,train,val,0,0.999881625175476,0.9254374158815613,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0030.jpg,coffee_berry_blotch_Bing_0040.jpg,train,train,0,0.9995052814483644,0.9603416717510678,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0030.jpg,coffee_berry_blotch_Bing_0079.jpg,train,train,0,0.9996581077575684,0.926474861958733,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0036.jpg,coffee_berry_blotch_Google_0010.jpg,train,train,0,1.0000001192092896,0.8817461779333211,coffee berry blotch Bing,coffee berry blotch Google
+coffee_berry_blotch_Bing_0038.jpg,coffee_berry_blotch_Bing_0010.jpg,train,test,0,0.999809980392456,0.8174193548387096,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0040.jpg,coffee_berry_blotch_Bing_0079.jpg,train,train,0,0.999303936958313,0.9300146412884334,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0043.jpg,coffee_berry_blotch_Google_0030.jpg,train,train,0,0.9995667934417723,0.9207639171068672,coffee berry blotch Bing,coffee berry blotch Google
+coffee_berry_blotch_Bing_0047.jpg,coffee_berry_blotch_Bing_0125.jpg,train,train,0,0.9999220967292786,0.7829313543599258,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0047.jpg,coffee_brown_eye_spot_Bing_0002.jpg,train,val,0,1.0,0.836167565325591,coffee berry blotch Bing,coffee brown eye spot Bing
+coffee_berry_blotch_Bing_0050.jpg,coffee_berry_blotch_Bing_0100.jpg,train,train,0,0.9984055161476136,0.5241581259150805,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0052.jpg,coffee_berry_blotch_Bing_0180.jpg,train,train,0,0.9995931386947632,0.897166968053044,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0052.jpg,coffee_brown_eye_spot_Bing_0000.jpg,train,train,0,0.9999998807907104,0.937939543491672,coffee berry blotch Bing,coffee brown eye spot Bing
+coffee_berry_blotch_Bing_0052.jpg,coffee_berry_blotch_Bing_0127.jpg,train,val,0,0.9998959898948668,0.9543055734328744,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0056.jpg,coffee_berry_blotch_Bing_0090.jpg,train,train,0,0.99989652633667,0.946792130025663,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0057.jpg,coffee_berry_blotch_Bing_0006.jpg,train,test,0,0.999974489212036,0.9098182649445652,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0057.jpg,coffee_brown_eye_spot_Bing_0036.jpg,train,test,0,0.999974489212036,0.8965675582596717,coffee berry blotch Bing,coffee brown eye spot Bing
+coffee_berry_blotch_Bing_0069.jpg,coffee_black_rot_Bing_0001.jpg,train,test,0,1.0,0.9497437466534078,coffee berry blotch Bing,coffee black rot Bing
+coffee_berry_blotch_Bing_0072.jpg,coffee_berry_blotch_Bing_0123.jpg,train,train,0,0.9996161460876464,0.8823529411764706,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0074.jpg,coffee_berry_blotch_Bing_0037.jpg,train,test,0,0.999409556388855,0.8768102313334587,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0074.jpg,coffee_berry_blotch_Bing_0140.jpg,train,test,0,0.999404788017273,0.9125093075204764,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0077.jpg,coffee_berry_blotch_Bing_0111.jpg,train,train,0,0.9998784065246582,0.937985368598762,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0077.jpg,coffee_berry_blotch_Bing_0054.jpg,train,val,0,0.9998714327812196,0.9312122874382884,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0080.jpg,coffee_berry_blotch_Bing_0065.jpg,train,test,0,0.9979596138000488,0.4864524259609326,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0087.jpg,coffee_berry_blotch_Bing_0122.jpg,train,test,0,0.9998552799224854,0.8720838275998418,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0089.jpg,coffee_berry_blotch_Bing_0058.jpg,train,test,2,0.9993747472763062,0.8481029995890974,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0111.jpg,coffee_berry_blotch_Bing_0054.jpg,train,val,0,0.999902069568634,0.9374182293938071,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0125.jpg,coffee_brown_eye_spot_Bing_0002.jpg,train,val,0,0.9999220967292786,0.7830144657022865,coffee berry blotch Bing,coffee brown eye spot Bing
+coffee_berry_blotch_Bing_0126.jpg,coffee_berry_blotch_Bing_0099.jpg,train,test,0,0.9999548196792604,0.8821621621621621,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0129.jpg,coffee_brown_eye_spot_Bing_0010.jpg,train,train,0,0.9999419450759888,0.9323715058611362,coffee berry blotch Bing,coffee brown eye spot Bing
+coffee_berry_blotch_Bing_0135.jpg,coffee_berry_blotch_Bing_0154.jpg,train,train,0,0.9983116388320924,0.6345514950166113,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0135.jpg,coffee_berry_blotch_Bing_0176.jpg,train,train,0,0.9983184933662416,0.6158833063209076,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0150.jpg,coffee_berry_blotch_Google_0034.jpg,train,train,0,1.0000001192092896,0.96202852614897,coffee berry blotch Bing,coffee berry blotch Google
+coffee_berry_blotch_Bing_0154.jpg,coffee_berry_blotch_Bing_0176.jpg,train,train,0,0.9999655485153198,0.8926080892608089,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0180.jpg,coffee_brown_eye_spot_Bing_0000.jpg,train,train,0,0.9995931386947632,0.9104339796860572,coffee berry blotch Bing,coffee brown eye spot Bing
+coffee_berry_blotch_Bing_0180.jpg,coffee_berry_blotch_Bing_0127.jpg,train,val,0,0.9995999336242676,0.9000960614793467,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Google_0007.jpg,coffee_berry_blotch_Bing_0002.jpg,train,test,0,0.9996230602264404,0.8984730779533887,coffee berry blotch Google,coffee berry blotch Bing
+coffee_berry_blotch_Google_0021.jpg,coffee_berry_blotch_Bing_0107.jpg,train,val,0,0.9964935183525084,0.6918032786885245,coffee berry blotch Google,coffee berry blotch Bing
+coffee_berry_blotch_Google_0021.jpg,coffee_berry_blotch_Bing_0049.jpg,train,test,0,1.0,0.8703071672354948,coffee berry blotch Google,coffee berry blotch Bing
+coffee_berry_blotch_Google_0026.jpg,coffee_brown_eye_spot_Google_0003.jpg,train,test,0,1.0,0.9218595450049456,coffee berry blotch Google,coffee brown eye spot Google
+coffee_brown_eye_spot_Bing_0000.jpg,coffee_berry_blotch_Bing_0127.jpg,train,val,0,0.9998959898948668,0.9385598427131974,coffee brown eye spot Bing,coffee berry blotch Bing
+coffee_brown_eye_spot_Bing_0008.jpg,coffee_brown_eye_spot_Google_0011.jpg,train,train,0,0.9996844530105592,0.911643270024773,coffee brown eye spot Bing,coffee brown eye spot Google
+coffee_brown_eye_spot_Bing_0009.jpg,coffee_berry_blotch_Bing_0020.jpg,train,val,0,0.9997501373291016,0.914148681055156,coffee brown eye spot Bing,coffee berry blotch Bing
+coffee_brown_eye_spot_Bing_0009.jpg,coffee_berry_blotch_Bing_0117.jpg,train,test,0,0.9999999403953552,0.9246901811248808,coffee brown eye spot Bing,coffee berry blotch Bing
+coffee_brown_eye_spot_Google_0034.jpg,coffee_brown_eye_spot_Bing_0006.jpg,train,test,0,1.0000001192092896,0.9560436380472842,coffee brown eye spot Google,coffee brown eye spot Bing
+coffee_leaf_rust_13.jpg,coffee_leaf_rust_google_0093.jpg,train,train,2,0.9960275888442992,0.4929363181916975,coffee leaf rust,coffee leaf rust
+coffee_leaf_rust_24.jpg,coffee_leaf_rust_google_0012.jpg,train,train,2,0.9966312646865844,0.9624670057297366,coffee leaf rust,coffee leaf rust
+coffee_leaf_rust_5.jpg,coffee_leaf_rust_google_0009.jpg,train,train,0,0.9996994733810424,0.6976336546888694,coffee leaf rust,coffee leaf rust
+coffee_leaf_rust_63.jpg,coffee_leaf_rust_google_0208.jpg,train,val,0,0.994292140007019,0.8896769109535066,coffee leaf rust,coffee leaf rust
+coffee_leaf_rust_9.jpg,coffee_leaf_rust_google_0048.jpg,train,test,0,0.9968248605728148,0.941253192761263,coffee leaf rust,coffee leaf rust
+coffee_leaf_rust_google_0040.jpg,coffee_leaf_rust_26.jpg,train,val,0,0.9996298551559448,0.7072063178677196,coffee leaf rust,coffee leaf rust
+coffee_leaf_rust_google_0136.jpg,coffee_leaf_rust_google_0125.jpg,train,test,0,0.99614816904068,0.9780757835646344,coffee leaf rust,coffee leaf rust
+cucumber_angular_leaf_spot_191.jpg,cucumber_angular_leaf_spot_43.jpg,train,train,2,0.9987460374832152,0.9767702009039324,cucumber angular leaf spot,cucumber angular leaf spot
+cucumber_angular_leaf_spot_210.jpg,cucumber_angular_leaf_spot_64.jpg,train,train,2,0.9785027503967284,0.8326335137687392,cucumber angular leaf spot,cucumber angular leaf spot
+cucumber_angular_leaf_spot_247.jpg,cucumber_angular_leaf_spot_175.jpg,train,test,0,0.9994623064994812,0.7382201222419698,cucumber angular leaf spot,cucumber angular leaf spot
+cucumber_bacterial_wilt_google_0004.jpg,zucchini_bacterial_wilt_Bing_0048.jpg,train,train,0,0.9999722242355348,0.7070246538331645,cucumber bacterial wilt,zucchini bacterial wilt Bing
+cucumber_bacterial_wilt_google_0006.jpg,zucchini_bacterial_wilt_Bing_0066.jpg,train,train,2,0.9996515512466432,0.288107202680067,cucumber bacterial wilt,zucchini bacterial wilt Bing
+cucumber_bacterial_wilt_google_0021.jpg,zucchini_bacterial_wilt_Bing_0110.jpg,train,train,0,0.9999547004699708,0.9247473661578156,cucumber bacterial wilt,zucchini bacterial wilt Bing
+cucumber_bacterial_wilt_google_0044.jpg,zucchini_bacterial_wilt_Bing_0001.jpg,train,train,0,0.9992352724075316,0.7242570053778659,cucumber bacterial wilt,zucchini bacterial wilt Bing
+cucumber_powdery_mildew_134.jpg,cucumber_powdery_mildew_42.jpg,train,val,0,0.9941625595092772,0.4657288237054774,cucumber powdery mildew,cucumber powdery mildew
+cucumber_powdery_mildew_141.jpg,cucumber_powdery_mildew_67.jpg,train,train,2,0.9920539855957032,0.9590225821950716,cucumber powdery mildew,cucumber powdery mildew
+cucumber_powdery_mildew_151.jpg,cucumber_powdery_mildew_8.jpg,train,train,0,0.9983412027359008,0.9693118594436312,cucumber powdery mildew,cucumber powdery mildew
+cucumber_powdery_mildew_google_0046.jpg,squash_powdery_mildew_google_0009.jpg,train,train,0,1.0,0.9376537369914854,cucumber powdery mildew,squash powdery mildew
+cucumber_powdery_mildew_google_0056.jpg,zucchini_powdery_mildew_Bing_0135.jpg,train,train,0,0.9999995827674866,0.8798348544111256,cucumber powdery mildew,zucchini powdery mildew Bing
+cucumber_powdery_mildew_google_0060.jpg,zucchini_powdery_mildew_Bing_0329.jpg,train,train,0,0.9998325109481812,0.9076302340177532,cucumber powdery mildew,zucchini powdery mildew Bing
+cucumber_powdery_mildew_google_0088.jpg,squash_powdery_mildew_google_0312.jpg,train,train,0,0.9999999403953552,0.2301077996195307,cucumber powdery mildew,squash powdery mildew
+cucumber_powdery_mildew_google_0146.jpg,zucchini_powdery_mildew_Bing_0000.jpg,train,train,0,0.999456226825714,0.8947955767474891,cucumber powdery mildew,zucchini powdery mildew Bing
+cucumber_powdery_mildew_google_0146.jpg,zucchini_powdery_mildew_Bing_0073.jpg,train,train,2,0.9967018365859984,0.8477740251765429,cucumber powdery mildew,zucchini powdery mildew Bing
+cucumber_powdery_mildew_google_0164.jpg,squash_powdery_mildew_google_0094.jpg,train,train,0,1.0,0.6918382649824075,cucumber powdery mildew,squash powdery mildew
+cucumber_powdery_mildew_google_0181.jpg,squash_powdery_mildew_google_0176.jpg,train,train,0,1.0,0.8405218067491654,cucumber powdery mildew,squash powdery mildew
+eggplant_cercospora_leaf_spot_google_0053.jpg,tomato_septoria_leaf_spot_google_0007.jpg,train,train,0,0.9999998807907104,0.8324780476679211,eggplant cercospora leaf spot,tomato septoria leaf spot
+eggplant_cercospora_leaf_spot_google_0071.jpg,tomato_early_blight_google_0322.jpg,train,train,0,0.9996488094329834,0.3846961740435108,eggplant cercospora leaf spot,tomato early blight
+eggplant_cercospora_leaf_spot_google_0071.jpg,tomato_septoria_leaf_spot_google_0001.jpg,train,train,0,0.9997976422309875,0.2256244634315849,eggplant cercospora leaf spot,tomato septoria leaf spot
+eggplant_cercospora_leaf_spot_google_0139.jpg,eggplant_cercospora_leaf_spot_google_0121.jpg,train,test,4,0.9605315923690796,0.8034629549911513,eggplant cercospora leaf spot,eggplant cercospora leaf spot
+eggplant_phomopsis_fruit_rot_Bing_0009.jpg,eggplant_phomopsis_fruit_rot_Google_0031.jpg,train,val,0,0.9993154406547546,0.924920910751682,eggplant phomopsis fruit rot Bing,eggplant phomopsis fruit rot Google
+eggplant_phomopsis_fruit_rot_Bing_0036.jpg,eggplant_cercospora_leaf_spot_google_0058.jpg,train,val,2,0.9638226628303528,0.1156685808039376,eggplant phomopsis fruit rot Bing,eggplant cercospora leaf spot
+eggplant_phomopsis_fruit_rot_Bing_0054.jpg,eggplant_phomopsis_fruit_rot_Bing_0004.jpg,train,val,0,0.9986932277679444,0.9870070568700706,eggplant phomopsis fruit rot Bing,eggplant phomopsis fruit rot Bing
+eggplant_phomopsis_fruit_rot_Bing_0054.jpg,eggplant_phomopsis_fruit_rot_Google_0002.jpg,train,val,0,0.9999995231628418,0.9813126334811896,eggplant phomopsis fruit rot Bing,eggplant phomopsis fruit rot Google
+eggplant_phomopsis_fruit_rot_Bing_0087.jpg,eggplant_phomopsis_fruit_rot_Bing_0113.jpg,train,train,0,0.999862253665924,0.0,eggplant phomopsis fruit rot Bing,eggplant phomopsis fruit rot Bing
+eggplant_phomopsis_fruit_rot_Google_0009.jpg,eggplant_phytophthora_blight_Google_0018.jpg,train,train,0,0.999998152256012,0.8883423512051156,eggplant phomopsis fruit rot Google,eggplant phytophthora blight Google
+eggplant_phytophthora_blight_Bing_0005.jpg,eggplant_phomopsis_fruit_rot_Bing_0022.jpg,train,test,0,0.99930739402771,0.9598708983324368,eggplant phytophthora blight Bing,eggplant phomopsis fruit rot Bing
+garlic_leaf_blight_145.jpg,garlic_leaf_blight_140.jpg,train,test,0,0.9842703938484192,0.937036018696728,garlic leaf blight,garlic leaf blight
+garlic_leaf_blight_google_0010.jpg,celery_anthracnose_google_0035.jpg,train,test,0,0.9999999403953552,0.2740292807129217,garlic leaf blight,celery anthracnose
+garlic_rust_74.jpg,wheat_stripe_rust_Baidu_0024.jpg,train,train,0,0.9997788071632384,0.7979431963281223,garlic rust,wheat stripe rust Baidu
+garlic_rust_google_0090.jpg,wheat_leaf_rust_Bing_0051.jpg,train,train,0,0.9999507665634156,0.6554212351232311,garlic rust,wheat leaf rust Bing
+garlic_rust_google_0090.jpg,wheat_leaf_rust_Google_0263.jpg,train,train,0,0.9998931884765624,0.628525165294832,garlic rust,wheat leaf rust Google
+ginger_sheath_blight_170.jpg,rice_sheath_blight_138.jpg,train,train,0,0.9999998807907104,0.2732327243844321,ginger sheath blight,rice sheath blight
+ginger_sheath_blight_20.jpg,rice_sheath_blight_17.jpg,train,train,0,0.9999998807907104,0.2941176470588235,ginger sheath blight,rice sheath blight
+ginger_sheath_blight_26.jpg,rice_sheath_blight_52.jpg,train,test,0,0.9999999403953552,0.7122356495468278,ginger sheath blight,rice sheath blight
+ginger_sheath_blight_39.jpg,rice_sheath_blight_48.jpg,train,train,0,1.0,0.4167950693374422,ginger sheath blight,rice sheath blight
+ginger_sheath_blight_google_0015.jpg,rice_sheath_blight_google_0007.jpg,train,train,0,0.9996577501296996,0.7436901291128697,ginger sheath blight,rice sheath blight
+ginger_sheath_blight_google_0020.jpg,rice_sheath_blight_google_0000.jpg,train,test,2,0.997911274433136,0.5606563781988669,ginger sheath blight,rice sheath blight
+grape_black_rot_40.jpg,grape_black_rot_google_0010.jpg,train,train,2,0.9867361783981324,0.9671012088172553,grape black rot,grape black rot
+grape_downy_mildew_1.jpg,grape_downy_mildew_274.jpg,train,train,0,0.9884750247001648,0.9131179358374244,grape downy mildew,grape downy mildew
+grape_downy_mildew_102.jpg,grape_downy_mildew_216.jpg,train,train,0,1.0,0.8400523941202154,grape downy mildew,grape downy mildew
+grape_downy_mildew_12.jpg,grape_downy_mildew_225.jpg,train,val,2,0.9841372966766356,0.924350054924936,grape downy mildew,grape downy mildew
+grape_downy_mildew_122.jpg,grape_downy_mildew_241.jpg,train,test,0,0.9999999403953552,0.8828382838283828,grape downy mildew,grape downy mildew
+grape_downy_mildew_17.jpg,grape_downy_mildew_220.jpg,train,val,0,0.9773480892181396,0.8935507321632569,grape downy mildew,grape downy mildew
+grape_downy_mildew_27.jpg,grape_downy_mildew_272.jpg,train,test,4,0.9562947750091552,0.8587541323653335,grape downy mildew,grape downy mildew
+grape_downy_mildew_79.jpg,grape_leaf_spot_1.jpg,train,train,0,1.0,0.8149110595514307,grape downy mildew,grape leaf spot
+grape_downy_mildew_google_0079.jpg,grape_leaf_spot_157.jpg,train,test,0,0.9989303350448608,0.3515784054477804,grape downy mildew,grape leaf spot
+grape_leaf_spot_138.jpg,grape_leaf_spot_9.jpg,train,test,0,0.997652530670166,0.9092332862556458,grape leaf spot,grape leaf spot
+grape_leaf_spot_144.jpg,grape_leaf_spot_38.jpg,train,train,0,0.998396933078766,0.2850040311744155,grape leaf spot,grape leaf spot
+grape_leaf_spot_198.jpg,grape_leaf_spot_168.jpg,train,test,0,0.9981988668441772,0.388056786892929,grape leaf spot,grape leaf spot
+grape_leaf_spot_205.jpg,grape_leaf_spot_41.jpg,train,train,2,0.9979372024536132,0.9736534153599252,grape leaf spot,grape leaf spot
+grape_leaf_spot_google_0030.jpg,tomato_early_blight_google_0223.jpg,train,train,0,1.0,0.4411228581844695,grape leaf spot,tomato early blight
+grape_leaf_spot_google_0036.jpg,eggplant_cercospora_leaf_spot_google_0030.jpg,train,test,0,0.9999999403953552,0.5733310950702255,grape leaf spot,eggplant cercospora leaf spot
+grape_leaf_spot_google_0036.jpg,tomato_bacterial_leaf_spot_google_0087.jpg,train,test,0,0.9999999403953552,0.5760419745787763,grape leaf spot,tomato bacterial leaf spot
+grape_leaf_spot_google_0060.jpg,potato_early_blight_google_0071.jpg,train,val,0,0.9999998807907104,0.3417580670799555,grape leaf spot,potato early blight
+grape_leaf_spot_google_0070.jpg,maple_tar_spot_google_0067.jpg,train,train,0,1.0000001192092896,0.7117868236063429,grape leaf spot,maple tar spot
+peach_brown_rot_Bing_0004.jpg,peach_brown_rot_Bing_0040.jpg,train,test,0,0.9998441934585572,0.9859223695988282,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0016.jpg,peach_brown_rot_Bing_0047.jpg,train,test,0,0.99943208694458,0.9198003191619952,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0017.jpg,peach_brown_rot_Google_0297.jpg,train,train,0,0.9986203908920288,0.8905318747642399,peach brown rot Bing,peach brown rot Google
+peach_brown_rot_Bing_0028.jpg,peach_brown_rot_Bing_0128.jpg,train,train,2,0.9981557726860046,0.9823582358235824,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0045.jpg,peach_brown_rot_Bing_0027.jpg,train,val,0,0.9998029470443726,0.9645403289688272,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0050.jpg,peach_brown_rot_Bing_0162.jpg,train,train,0,0.999638020992279,0.958340727595386,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0055.jpg,peach_brown_rot_Google_0103.jpg,train,train,4,0.9849777817726136,0.9124893797790994,peach brown rot Bing,peach brown rot Google
+peach_brown_rot_Bing_0063.jpg,peach_brown_rot_Bing_0332.jpg,train,train,0,0.9979881048202516,0.9185305240410588,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0070.jpg,peach_brown_rot_Google_0110.jpg,train,val,0,0.9999999403953552,0.7147575178167912,peach brown rot Bing,peach brown rot Google
+peach_brown_rot_Bing_0076.jpg,peach_brown_rot_Bing_0269.jpg,train,test,0,0.9997461438179016,0.9579917381633302,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0093.jpg,plum_brown_rot_Bing_0060.jpg,train,val,0,0.9999998807907104,0.9743247452498554,peach brown rot Bing,plum brown rot Bing
+peach_brown_rot_Bing_0131.jpg,peach_brown_rot_Bing_0292.jpg,train,train,0,0.9998645782470704,0.9784417210841756,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0153.jpg,peach_brown_rot_Bing_0115.jpg,train,val,0,0.9997940063476562,0.9841222529204736,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0153.jpg,peach_brown_rot_Bing_0317.jpg,train,test,0,0.999761164188385,0.9873896740698008,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0161.jpg,plum_brown_rot_Bing_0067.jpg,train,val,0,1.0,0.946043165467626,peach brown rot Bing,plum brown rot Bing
+peach_brown_rot_Bing_0175.jpg,peach_brown_rot_Bing_0250.jpg,train,train,2,0.9835414290428162,0.9680241178214886,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0175.jpg,peach_brown_rot_Bing_0141.jpg,train,test,2,0.982926905155182,0.9654519882367985,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0196.jpg,peach_brown_rot_Bing_0237.jpg,train,val,0,0.9999154806137084,0.9833987433898992,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0232.jpg,peach_brown_rot_Google_0392.jpg,train,train,0,0.9999998807907104,0.9723946542028774,peach brown rot Bing,peach brown rot Google
+peach_brown_rot_Bing_0250.jpg,peach_brown_rot_Bing_0141.jpg,train,test,0,0.9997619390487672,0.9631715226627114,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Bing_0266.jpg,peach_brown_rot_Bing_0006.jpg,train,val,0,0.9984592795372008,0.986702013939368,peach brown rot Bing,peach brown rot Bing
+peach_brown_rot_Google_0128.jpg,peach_brown_rot_Bing_0029.jpg,train,val,0,1.0,0.9588623666835956,peach brown rot Google,peach brown rot Bing
+peach_brown_rot_Google_0198.jpg,plum_brown_rot_Google_0108.jpg,train,train,0,1.0,0.9893474355405988,peach brown rot Google,plum brown rot Google
+peach_brown_rot_Google_0260.jpg,plum_brown_rot_Bing_0079.jpg,train,test,0,0.9999999403953552,0.8752373995617239,peach brown rot Google,plum brown rot Bing
+peach_scab_Bing_0003.jpg,peach_scab_Google_0004.jpg,train,train,0,1.0,0.6265356265356266,peach scab Bing,peach scab Google
+peach_scab_Bing_0004.jpg,peach_scab_Bing_0147.jpg,train,train,0,0.9997063875198364,0.9429986111949762,peach scab Bing,peach scab Bing
+peach_scab_Bing_0004.jpg,peach_scab_Bing_0083.jpg,train,test,0,0.9996486902236938,0.9611902897415818,peach scab Bing,peach scab Bing
+peach_scab_Bing_0006.jpg,peach_scab_Bing_0036.jpg,train,train,0,0.999936044216156,0.936734453979076,peach scab Bing,peach scab Bing
+peach_scab_Bing_0016.jpg,peach_scab_Bing_0054.jpg,train,test,0,0.999886989593506,0.8823900960080849,peach scab Bing,peach scab Bing
+peach_scab_Bing_0026.jpg,peach_scab_Bing_0046.jpg,train,test,0,0.9999547004699708,0.9294260447372984,peach scab Bing,peach scab Bing
+peach_scab_Bing_0072.jpg,peach_scab_Bing_0246.jpg,train,val,0,0.9964748620986938,0.98543756010441,peach scab Bing,peach scab Bing
+peach_scab_Bing_0147.jpg,peach_scab_Bing_0083.jpg,train,test,0,0.9998360872268676,0.948140232137026,peach scab Bing,peach scab Bing
+peach_scab_Bing_0253.jpg,peach_scab_Bing_0223.jpg,train,test,0,0.9999998807907104,0.9719725013220518,peach scab Bing,peach scab Bing
+plum_brown_rot_Bing_0002.jpg,plum_brown_rot_Bing_0070.jpg,train,train,0,0.9998558163642884,0.9350351223543456,plum brown rot Bing,plum brown rot Bing
+plum_brown_rot_Bing_0002.jpg,plum_brown_rot_Google_0013.jpg,train,train,0,0.9998481273651124,0.9382077574676772,plum brown rot Bing,plum brown rot Google
+plum_brown_rot_Bing_0009.jpg,plum_brown_rot_Bing_0042.jpg,train,train,0,0.999882698059082,0.989256306365181,plum brown rot Bing,plum brown rot Bing
+plum_brown_rot_Bing_0016.jpg,plum_brown_rot_Google_0050.jpg,train,train,0,1.0000001192092896,0.9892059178743962,plum brown rot Bing,plum brown rot Google
+plum_brown_rot_Bing_0049.jpg,plum_brown_rot_Google_0201.jpg,train,train,0,0.997674822807312,0.961987273435616,plum brown rot Bing,plum brown rot Google
+plum_brown_rot_Bing_0049.jpg,plum_brown_rot_Bing_0072.jpg,train,val,2,0.999108076095581,0.9648641179180102,plum brown rot Bing,plum brown rot Bing
+plum_brown_rot_Bing_0070.jpg,plum_brown_rot_Google_0013.jpg,train,train,0,0.9997810125350952,0.9538433498883674,plum brown rot Bing,plum brown rot Google
+plum_brown_rot_Bing_0081.jpg,plum_brown_rot_Bing_0000.jpg,train,test,0,0.999704360961914,0.7692585895117541,plum brown rot Bing,plum brown rot Bing
+plum_brown_rot_Google_0201.jpg,plum_brown_rot_Bing_0072.jpg,train,val,2,0.9980357885360718,0.979554043839758,plum brown rot Google,plum brown rot Bing
+plum_pox_virus_Bing_0074.jpg,plum_pox_virus_Google_0040.jpg,train,test,0,1.0,0.8428124284296511,plum pox virus Bing,plum pox virus Google
+plum_rust_Bing_0012.jpg,plum_rust_Bing_0036.jpg,train,test,2,0.9997411370277404,0.9588132424772358,plum rust Bing,plum rust Bing
+potato_early_blight_100.jpg,potato_early_blight_31.jpg,train,val,0,0.9999998807907104,0.5654310385954868,potato early blight,potato early blight
+potato_early_blight_55.jpg,potato_late_blight_10.jpg,train,train,0,1.0,0.8055048913944619,potato early blight,potato late blight
+potato_early_blight_google_0005.jpg,tomato_early_blight_google_0044.jpg,train,train,0,1.0000001192092896,0.8737020831972834,potato early blight,tomato early blight
+potato_early_blight_google_0013.jpg,tomato_early_blight_google_0093.jpg,train,val,2,0.9889097213745116,0.9389178088733942,potato early blight,tomato early blight
+potato_early_blight_google_0048.jpg,tomato_early_blight_google_0076.jpg,train,train,0,0.9997423887252808,0.5280269058295964,potato early blight,tomato early blight
+potato_early_blight_google_0053.jpg,tomato_early_blight_google_0152.jpg,train,test,0,1.0,0.803510610427037,potato early blight,tomato early blight
+potato_early_blight_google_0055.jpg,tomato_early_blight_google_0120.jpg,train,train,0,1.0,0.5970345963756178,potato early blight,tomato early blight
+potato_early_blight_google_0079.jpg,tomato_early_blight_google_0267.jpg,train,test,0,0.999778151512146,0.8951982205940076,potato early blight,tomato early blight
+potato_early_blight_google_0084.jpg,tomato_early_blight_google_0133.jpg,train,train,0,0.9999999403953552,0.5131906421105027,potato early blight,tomato early blight
+potato_early_blight_google_0100.jpg,tomato_early_blight_google_0041.jpg,train,test,0,1.0000001192092896,0.7017274472168906,potato early blight,tomato early blight
+potato_early_blight_google_0116.jpg,tomato_early_blight_google_0271.jpg,train,val,0,1.0,0.626948723844562,potato early blight,tomato early blight
+potato_early_blight_google_0200.jpg,tomato_early_blight_google_0343.jpg,train,train,0,1.0,0.7383930464278143,potato early blight,tomato early blight
+potato_early_blight_google_0284.jpg,potato_late_blight_google_0035.jpg,train,train,0,1.0,0.8935693935693936,potato early blight,potato late blight
+potato_late_blight_3.jpg,potato_late_blight_google_0048.jpg,train,test,0,0.9995317459106444,0.8399404681369232,potato late blight,potato late blight
+raspberry_fire_blight_Bing_0000.jpg,raspberry_fire_blight_Google_0002.jpg,train,train,0,0.9998752474784852,0.7617228941226395,raspberry fire blight Bing,raspberry fire blight Google
+raspberry_fire_blight_Bing_0000.jpg,raspberry_fire_blight_Bing_0041.jpg,train,test,2,0.999436378479004,0.7520414260107549,raspberry fire blight Bing,raspberry fire blight Bing
+raspberry_fire_blight_Bing_0001.jpg,raspberry_fire_blight_Google_0003.jpg,train,val,0,1.0,0.9678501537601342,raspberry fire blight Bing,raspberry fire blight Google
+raspberry_fire_blight_Bing_0004.jpg,raspberry_fire_blight_Google_0004.jpg,train,train,0,0.9999998807907104,0.7664105464331682,raspberry fire blight Bing,raspberry fire blight Google
+raspberry_fire_blight_Bing_0063.jpg,raspberry_fire_blight_Google_0005.jpg,train,test,0,1.0,0.9374925707687344,raspberry fire blight Bing,raspberry fire blight Google
+raspberry_fire_blight_Google_0002.jpg,raspberry_fire_blight_Bing_0041.jpg,train,test,2,0.9993294477462769,0.8402695204122077,raspberry fire blight Google,raspberry fire blight Bing
+raspberry_gray_mold_Bing_0013.jpg,raspberry_gray_mold_Bing_0035.jpg,train,train,0,0.9998272657394408,0.8326689848189297,raspberry gray mold Bing,raspberry gray mold Bing
+raspberry_gray_mold_Bing_0032.jpg,raspberry_gray_mold_Bing_0068.jpg,train,train,0,0.9995790719985962,0.8143537165873307,raspberry gray mold Bing,raspberry gray mold Bing
+raspberry_gray_mold_Bing_0040.jpg,raspberry_gray_mold_Google_0000.jpg,train,train,0,0.9999998807907104,0.936615566037736,raspberry gray mold Bing,raspberry gray mold Google
+raspberry_gray_mold_Google_0011.jpg,raspberry_gray_mold_Bing_0020.jpg,train,test,0,1.0,0.9440057430007178,raspberry gray mold Google,raspberry gray mold Bing
+raspberry_yellow_rust_Google_0013.jpg,raspberry_yellow_rust_Bing_0010.jpg,train,test,0,0.9999999403953552,0.9854261649022488,raspberry yellow rust Google,raspberry yellow rust Bing
+rice_sheath_blight_143.jpg,ginger_sheath_blight_161.jpg,train,test,0,0.9987294673919678,0.2457932692307692,rice sheath blight,ginger sheath blight
+rice_sheath_blight_20.jpg,ginger_sheath_blight_30.jpg,train,test,0,1.0,0.0053534876397417,rice sheath blight,ginger sheath blight
+rice_sheath_blight_37.jpg,ginger_sheath_blight_13.jpg,train,test,2,0.9984806776046752,0.3744410938962254,rice sheath blight,ginger sheath blight
+soybean_bacterial_blight_Baidu_0000.jpg,soybean_brown_spot_Baidu_0009.jpg,train,test,0,1.0,0.8983435443612435,soybean bacterial blight Baidu,soybean brown spot Baidu
+soybean_bacterial_blight_Bing_0000.jpg,soybean_brown_spot_Bing_0051.jpg,train,train,0,1.0,0.6882922244519522,soybean bacterial blight Bing,soybean brown spot Bing
+soybean_bacterial_blight_Bing_0006.jpg,soybean_bacterial_blight_Bing_0088.jpg,train,train,0,0.9968776106834412,0.9908598755783742,soybean bacterial blight Bing,soybean bacterial blight Bing
+soybean_bacterial_blight_Bing_0010.jpg,soybean_bacterial_blight_Bing_0063.jpg,train,train,0,0.9994000792503356,0.8923423538749072,soybean bacterial blight Bing,soybean bacterial blight Bing
+soybean_bacterial_blight_Bing_0017.jpg,soybean_bacterial_blight_Bing_0106.jpg,train,train,0,0.9994109272956848,0.8385100221452502,soybean bacterial blight Bing,soybean bacterial blight Bing
+soybean_bacterial_blight_Bing_0028.jpg,soybean_bacterial_blight_Google_0021.jpg,train,train,0,0.9999998807907104,0.8314046930247508,soybean bacterial blight Bing,soybean bacterial blight Google
+soybean_bacterial_blight_Bing_0031.jpg,soybean_bacterial_blight_Bing_0099.jpg,train,train,0,0.9998834133148192,0.7797144143038337,soybean bacterial blight Bing,soybean bacterial blight Bing
+soybean_bacterial_blight_Bing_0056.jpg,soybean_bacterial_blight_Bing_0172.jpg,train,test,2,0.9952598214149476,0.9105928085519922,soybean bacterial blight Bing,soybean bacterial blight Bing
+soybean_bacterial_blight_Bing_0060.jpg,tomato_bacterial_leaf_spot_google_0324.jpg,train,train,0,0.996024250984192,0.5690870973889842,soybean bacterial blight Bing,tomato bacterial leaf spot
+soybean_bacterial_blight_Bing_0103.jpg,soybean_brown_spot_Bing_0049.jpg,train,train,0,1.0,0.9058623013199096,soybean bacterial blight Bing,soybean brown spot Bing
+soybean_bacterial_blight_Bing_0119.jpg,soybean_brown_spot_Bing_0041.jpg,train,train,0,0.9999999403953552,0.8060168997668997,soybean bacterial blight Bing,soybean brown spot Bing
+soybean_bacterial_blight_Bing_0135.jpg,soybean_bacterial_blight_Bing_0147.jpg,train,train,2,0.9997448921203612,0.9905717593868888,soybean bacterial blight Bing,soybean bacterial blight Bing
+soybean_bacterial_blight_Bing_0140.jpg,soybean_bacterial_blight_Bing_0151.jpg,train,train,0,0.9942042231559752,0.9119884407802472,soybean bacterial blight Bing,soybean bacterial blight Bing
+soybean_bacterial_blight_Bing_0166.jpg,soybean_bacterial_blight_Bing_0055.jpg,train,test,0,0.9993414878845216,0.9869855651105652,soybean bacterial blight Bing,soybean bacterial blight Bing
+soybean_bacterial_blight_Google_0022.jpg,soybean_bacterial_blight_Bing_0066.jpg,train,test,0,0.999469757080078,0.6846311261146878,soybean bacterial blight Google,soybean bacterial blight Bing
+soybean_bacterial_blight_Google_0242.jpg,soybean_bacterial_blight_Bing_0049.jpg,train,test,0,0.9997295141220092,0.7338782924613987,soybean bacterial blight Google,soybean bacterial blight Bing
+soybean_brown_spot_Baidu_0031.jpg,soybean_frog_eye_leaf_spot_Baidu_0012.jpg,train,test,0,0.9999998807907104,0.8369536770478933,soybean brown spot Baidu,soybean frog eye leaf spot Baidu
+soybean_brown_spot_Bing_0014.jpg,soybean_brown_spot_Bing_0065.jpg,train,train,0,0.9989975690841676,0.9606092933439564,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0014.jpg,soybean_brown_spot_Bing_0317.jpg,train,train,0,0.9999578595161438,0.9776836080460086,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0020.jpg,soybean_brown_spot_Google_0121.jpg,train,train,0,0.9997508525848388,0.9360311819328212,soybean brown spot Bing,soybean brown spot Google
+soybean_brown_spot_Bing_0021.jpg,soybean_brown_spot_Bing_0090.jpg,train,test,2,0.987212061882019,0.9229251064713826,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0042.jpg,soybean_brown_spot_Bing_0025.jpg,train,test,0,0.9999998211860656,0.9849276588032744,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0046.jpg,soybean_brown_spot_Bing_0070.jpg,train,train,0,1.0,0.9343409797822706,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0046.jpg,soybean_bacterial_blight_Bing_0105.jpg,train,test,0,1.0,0.843473785495312,soybean brown spot Bing,soybean bacterial blight Bing
+soybean_brown_spot_Bing_0050.jpg,soybean_brown_spot_Bing_0063.jpg,train,test,0,0.9998614192008972,0.9866761414105524,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0065.jpg,soybean_brown_spot_Bing_0317.jpg,train,train,0,0.9989886283874512,0.976422041477039,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0070.jpg,soybean_bacterial_blight_Bing_0105.jpg,train,test,0,1.0,0.8581739761899523,soybean brown spot Bing,soybean bacterial blight Bing
+soybean_brown_spot_Bing_0132.jpg,soybean_brown_spot_Bing_0160.jpg,train,train,0,1.0,0.9740173217854764,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0161.jpg,soybean_brown_spot_Bing_0129.jpg,train,val,0,1.0000001192092896,0.9462153297455655,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0255.jpg,soybean_brown_spot_Bing_0229.jpg,train,test,0,0.9999999403953552,0.954959609242908,soybean brown spot Bing,soybean brown spot Bing
+soybean_brown_spot_Bing_0261.jpg,soybean_brown_spot_Bing_0241.jpg,train,val,0,1.0,0.9900888585099112,soybean brown spot Bing,soybean brown spot Bing
+soybean_downy_mildew_Bing_0004.jpg,soybean_downy_mildew_Google_0046.jpg,train,train,0,0.998397707939148,0.9207591422554088,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0004.jpg,soybean_downy_mildew_Bing_0101.jpg,train,test,0,0.998397707939148,0.9100668904282416,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0013.jpg,soybean_downy_mildew_Google_0025.jpg,train,train,0,0.9995828866958618,0.6709630350194552,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0015.jpg,soybean_downy_mildew_Bing_0037.jpg,train,train,0,0.9998162984848022,0.9468965289910012,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0017.jpg,soybean_downy_mildew_Google_0015.jpg,train,val,0,1.0000001192092896,0.9003688647997591,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0020.jpg,soybean_downy_mildew_Google_0023.jpg,train,train,0,1.0,0.9728858367991746,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0022.jpg,soybean_downy_mildew_Bing_0036.jpg,train,train,2,0.9984344244003296,0.9825045511162211,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0027.jpg,soybean_downy_mildew_Bing_0145.jpg,train,train,0,1.0,0.9918723955216572,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0027.jpg,soybean_downy_mildew_Google_0302.jpg,train,test,0,1.0,0.9923761257555316,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0030.jpg,soybean_downy_mildew_Bing_0076.jpg,train,train,0,0.9941079616546632,0.8759305210918115,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0030.jpg,soybean_downy_mildew_Google_0061.jpg,train,test,0,0.9941079616546632,0.8822442668380256,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0032.jpg,soybean_downy_mildew_Google_0080.jpg,train,train,0,0.9995121955871582,0.7685877179782983,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0033.jpg,soybean_downy_mildew_Google_0045.jpg,train,train,0,0.9993627071380616,0.2985336637752994,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0059.jpg,soybean_downy_mildew_Bing_0071.jpg,train,train,2,0.9993926286697388,0.9955465998374424,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0059.jpg,soybean_downy_mildew_Google_0090.jpg,train,train,2,0.9993926286697388,0.9959580039148892,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0059.jpg,soybean_downy_mildew_Google_0127.jpg,train,train,2,0.9993926286697388,0.9947904293229256,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0061.jpg,soybean_downy_mildew_Bing_0089.jpg,train,val,0,0.998826026916504,0.7793894782420437,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0063.jpg,soybean_downy_mildew_Bing_0074.jpg,train,train,0,0.9987784028053284,0.9741474288349689,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0071.jpg,soybean_downy_mildew_Google_0090.jpg,train,train,0,1.0000001192092896,0.9930945663133456,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0071.jpg,soybean_downy_mildew_Google_0127.jpg,train,train,0,1.0000001192092896,0.9941461924799784,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0076.jpg,soybean_downy_mildew_Google_0061.jpg,train,test,0,0.9999998807907104,0.9751474461218888,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0093.jpg,soybean_downy_mildew_Bing_0095.jpg,train,train,0,0.99875146150589,0.7659827181756095,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0105.jpg,soybean_downy_mildew_Google_0158.jpg,train,train,0,0.99982488155365,0.8663466330893733,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0145.jpg,soybean_downy_mildew_Google_0302.jpg,train,test,0,1.0,0.9916895694280852,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0150.jpg,soybean_downy_mildew_Google_0256.jpg,train,test,4,0.98288893699646,0.7545691906005222,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0151.jpg,soybean_downy_mildew_Bing_0023.jpg,train,test,0,0.999192476272583,0.9366283464977452,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0158.jpg,soybean_downy_mildew_Google_0193.jpg,train,val,0,0.9999999403953552,0.8515674984005118,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0175.jpg,soybean_downy_mildew_Google_0323.jpg,train,train,0,0.998633086681366,0.9687911326636648,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0175.jpg,soybean_downy_mildew_Bing_0142.jpg,train,test,0,0.998633086681366,0.9836579588637254,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Google_0029.jpg,soybean_downy_mildew_Bing_0038.jpg,train,test,0,0.9993585348129272,0.5143664006830198,soybean downy mildew Google,soybean downy mildew Bing
+soybean_downy_mildew_Google_0046.jpg,soybean_downy_mildew_Bing_0101.jpg,train,test,0,0.9999998807907104,0.9381166382561082,soybean downy mildew Google,soybean downy mildew Bing
+soybean_downy_mildew_Google_0090.jpg,soybean_downy_mildew_Google_0127.jpg,train,train,0,1.0000001192092896,0.9954742678588108,soybean downy mildew Google,soybean downy mildew Google
+soybean_downy_mildew_Google_0169.jpg,soybean_downy_mildew_Bing_0046.jpg,train,test,0,0.9994401931762696,0.9753401435622148,soybean downy mildew Google,soybean downy mildew Bing
+soybean_downy_mildew_Google_0233.jpg,soybean_downy_mildew_Bing_0107.jpg,train,test,0,0.9999998211860656,0.9928797397852336,soybean downy mildew Google,soybean downy mildew Bing
+soybean_downy_mildew_Google_0323.jpg,soybean_downy_mildew_Bing_0142.jpg,train,test,0,0.9999998807907104,0.9655936693736904,soybean downy mildew Google,soybean downy mildew Bing
+soybean_frog_eye_leaf_spot_Baidu_0105.jpg,soybean_frog_eye_leaf_spot_Bing_0164.jpg,train,test,0,0.999987006187439,0.9954254051093716,soybean frog eye leaf spot Baidu,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0018.jpg,soybean_frog_eye_leaf_spot_Google_0004.jpg,train,train,0,1.0,0.9061652633081204,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0018.jpg,soybean_frog_eye_leaf_spot_Google_0054.jpg,train,train,2,0.993194580078125,0.8811342831578223,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0019.jpg,soybean_frog_eye_leaf_spot_Bing_0165.jpg,train,train,0,0.9976115226745604,0.9769080647713488,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0022.jpg,soybean_frog_eye_leaf_spot_Bing_0079.jpg,train,train,2,0.9995192289352416,0.7834317937701396,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0023.jpg,soybean_frog_eye_leaf_spot_Bing_0139.jpg,train,train,0,0.9991790652275084,0.7902179110594986,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0024.jpg,soybean_frog_eye_leaf_spot_Bing_0095.jpg,train,test,0,0.9995964169502258,0.8140161725067385,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0031.jpg,soybean_frog_eye_leaf_spot_Bing_0186.jpg,train,train,2,0.9806908369064332,0.3184382328706344,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0031.jpg,soybean_frog_eye_leaf_spot_Google_0057.jpg,train,test,2,0.98045152425766,0.3144790911288373,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0039.jpg,soybean_frog_eye_leaf_spot_Bing_0004.jpg,train,test,0,0.9999998807907104,0.9934996550096236,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0039.jpg,soybean_frog_eye_leaf_spot_Bing_0155.jpg,train,test,0,0.9991592168807985,0.994505146333294,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0050.jpg,soybean_frog_eye_leaf_spot_Google_0187.jpg,train,train,0,1.0,0.8497379149679674,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0051.jpg,soybean_frog_eye_leaf_spot_Bing_0146.jpg,train,train,0,0.9984474778175354,0.9667294569678522,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0055.jpg,soybean_frog_eye_leaf_spot_Google_0026.jpg,train,train,0,1.0,0.8300469483568075,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0059.jpg,soybean_frog_eye_leaf_spot_Google_0114.jpg,train,val,0,1.0000001192092896,0.7441330998248686,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0059.jpg,soybean_frog_eye_leaf_spot_Bing_0007.jpg,train,test,0,0.999506652355194,0.6268464075720637,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0061.jpg,soybean_frog_eye_leaf_spot_Bing_0159.jpg,train,train,0,0.9967701435089112,0.9928366762177652,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0063.jpg,soybean_frog_eye_leaf_spot_Google_0031.jpg,train,train,2,0.9970821142196656,0.9052416,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0078.jpg,soybean_frog_eye_leaf_spot_Google_0073.jpg,train,train,0,0.9992884397506714,0.9120854376427444,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0080.jpg,soybean_frog_eye_leaf_spot_Google_0272.jpg,train,train,0,0.9999998807907104,0.8241367343397537,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0091.jpg,soybean_frog_eye_leaf_spot_Google_0149.jpg,train,train,0,0.9999999403953552,0.9459439689854436,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0093.jpg,soybean_frog_eye_leaf_spot_Google_0284.jpg,train,train,0,0.9999998807907104,0.9519550510262584,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0104.jpg,soybean_frog_eye_leaf_spot_Google_0074.jpg,train,train,0,1.0000001192092896,0.8397568013190437,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0104.jpg,soybean_frog_eye_leaf_spot_Bing_0233.jpg,train,test,2,0.996411144733429,0.761812387418595,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0106.jpg,soybean_frog_eye_leaf_spot_Bing_0151.jpg,train,val,0,0.9996541142463684,0.9095434712583093,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0116.jpg,tobacco_frogeye_leaf_spot_Bing_0040.jpg,train,train,0,0.9999998807907104,0.5883852175496086,soybean frog eye leaf spot Bing,tobacco frogeye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0135.jpg,soybean_frog_eye_leaf_spot_Google_0056.jpg,train,test,0,0.999325156211853,0.5906280095291195,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0138.jpg,soybean_frog_eye_leaf_spot_Google_0048.jpg,train,test,0,0.9995633959770204,0.9532116194840712,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0144.jpg,soybean_frog_eye_leaf_spot_Google_0064.jpg,train,train,2,0.9995474815368652,0.9057271249641458,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0172.jpg,soybean_frog_eye_leaf_spot_Google_0327.jpg,train,train,0,1.0,0.7745694022289767,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0178.jpg,soybean_frog_eye_leaf_spot_Google_0015.jpg,train,train,0,1.0000001192092896,0.9719850701445794,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0180.jpg,soybean_frog_eye_leaf_spot_Google_0109.jpg,train,test,0,1.0,0.9730653827367246,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0181.jpg,tobacco_frogeye_leaf_spot_Bing_0037.jpg,train,val,0,0.998261570930481,0.6807598039215687,soybean frog eye leaf spot Bing,tobacco frogeye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0181.jpg,tobacco_frogeye_leaf_spot_Bing_0000.jpg,train,test,0,1.0,0.6480996754266569,soybean frog eye leaf spot Bing,tobacco frogeye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0184.jpg,soybean_frog_eye_leaf_spot_Google_0213.jpg,train,train,0,0.9999997615814208,0.8113667341291149,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0185.jpg,soybean_frog_eye_leaf_spot_Google_0126.jpg,train,train,0,1.0,0.9746594220017324,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0185.jpg,soybean_frog_eye_leaf_spot_Bing_0260.jpg,train,val,2,0.9955033659934998,0.9569483473319774,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0186.jpg,soybean_frog_eye_leaf_spot_Google_0057.jpg,train,test,0,0.9997799396514891,0.8011683705403714,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Bing_0217.jpg,tobacco_frogeye_leaf_spot_Bing_0002.jpg,train,test,0,1.0,0.1141171684296175,soybean frog eye leaf spot Bing,tobacco frogeye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0248.jpg,soybean_frog_eye_leaf_spot_Google_0382.jpg,train,val,0,1.0,0.6852750675037687,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Google_0004.jpg,soybean_frog_eye_leaf_spot_Google_0054.jpg,train,train,2,0.993194580078125,0.9057408572827076,soybean frog eye leaf spot Google,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Google_0074.jpg,soybean_frog_eye_leaf_spot_Bing_0233.jpg,train,test,2,0.996411144733429,0.8378390336710765,soybean frog eye leaf spot Google,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Google_0126.jpg,soybean_frog_eye_leaf_spot_Bing_0260.jpg,train,val,2,0.9955033659934998,0.957661608354103,soybean frog eye leaf spot Google,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Google_0206.jpg,soybean_frog_eye_leaf_spot_Bing_0251.jpg,train,test,0,1.0,0.9232057304990928,soybean frog eye leaf spot Google,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Google_0218.jpg,soybean_frog_eye_leaf_spot_Bing_0089.jpg,train,test,0,1.0,0.8463476070528967,soybean frog eye leaf spot Google,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Google_0331.jpg,soybean_frog_eye_leaf_spot_Bing_0108.jpg,train,val,0,1.0,0.597650827549386,soybean frog eye leaf spot Google,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Google_0355.jpg,soybean_frog_eye_leaf_spot_Bing_0044.jpg,train,val,0,0.9995696544647216,0.7616411592315206,soybean frog eye leaf spot Google,soybean frog eye leaf spot Bing
+soybean_mosaic_Baidu_0093.jpg,soybean_mosaic_Baidu_0094.jpg,train,test,0,0.9999998807907104,0.9843044619422572,soybean mosaic Baidu,soybean mosaic Baidu
+soybean_mosaic_Bing_0015.jpg,soybean_mosaic_Bing_0044.jpg,train,train,0,0.9997366070747375,0.9700556535903352,soybean mosaic Bing,soybean mosaic Bing
+soybean_mosaic_Bing_0070.jpg,soybean_mosaic_Google_0090.jpg,train,val,0,0.9999998807907104,0.9712883582446848,soybean mosaic Bing,soybean mosaic Google
+soybean_mosaic_Bing_0102.jpg,soybean_mosaic_Bing_0219.jpg,train,train,2,0.9971709251403807,0.9850772369571552,soybean mosaic Bing,soybean mosaic Bing
+soybean_mosaic_Bing_0140.jpg,soybean_mosaic_Bing_0112.jpg,train,test,4,0.9863689541816713,0.9901004201979916,soybean mosaic Bing,soybean mosaic Bing
+soybean_mosaic_Bing_0226.jpg,soybean_mosaic_Bing_0062.jpg,train,test,0,0.9991926550865172,0.9118057825453896,soybean mosaic Bing,soybean mosaic Bing
+soybean_rust_Bing_0014.jpg,soybean_rust_Bing_0074.jpg,train,test,2,0.9989222288131714,0.99404121593038,soybean rust Bing,soybean rust Bing
+soybean_rust_Bing_0023.jpg,soybean_rust_Bing_0055.jpg,train,test,0,0.999710202217102,0.6871382636655948,soybean rust Bing,soybean rust Bing
+soybean_rust_Bing_0044.jpg,soybean_rust_Bing_0073.jpg,train,test,0,0.9981329441070556,0.9421722904082184,soybean rust Bing,soybean rust Bing
+soybean_rust_Bing_0053.jpg,soybean_rust_Bing_0032.jpg,train,test,0,0.9986261129379272,0.9762205670135434,soybean rust Bing,soybean rust Bing
+soybean_rust_Bing_0068.jpg,soybean_rust_Bing_0081.jpg,train,val,0,0.9994138479232788,0.9730961645358532,soybean rust Bing,soybean rust Bing
+soybean_rust_Bing_0098.jpg,soybean_rust_Google_0010.jpg,train,train,0,0.9999996423721312,0.9959771617484589,soybean rust Bing,soybean rust Google
+soybean_rust_Bing_0115.jpg,soybean_rust_Bing_0255.jpg,train,train,0,0.9990655779838562,0.6525808671713695,soybean rust Bing,soybean rust Bing
+soybean_rust_Bing_0184.jpg,soybean_rust_Bing_0145.jpg,train,test,2,0.998616337776184,0.9938277291570704,soybean rust Bing,soybean rust Bing
+soybean_rust_Google_0177.jpg,soybean_rust_Bing_0155.jpg,train,val,0,0.97347891330719,0.997411350981733,soybean rust Google,soybean rust Bing
+squash_powdery_mildew_24.jpg,zucchini_powdery_mildew_Bing_0233.jpg,train,test,2,0.9915060997009276,0.8365510869036619,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0007.jpg,zucchini_powdery_mildew_Bing_0238.jpg,train,train,0,0.9998353719711304,0.9433715974968326,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0007.jpg,cucumber_powdery_mildew_google_0002.jpg,train,val,0,0.9999999403953552,0.966453763883946,squash powdery mildew,cucumber powdery mildew
+squash_powdery_mildew_google_0007.jpg,zucchini_powdery_mildew_Bing_0253.jpg,train,val,0,0.999774932861328,0.9625688556334718,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0008.jpg,zucchini_powdery_mildew_Bing_0330.jpg,train,train,0,0.9998629093170166,0.7117244247708738,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0008.jpg,zucchini_powdery_mildew_Bing_0289.jpg,train,test,0,0.9998629093170166,0.8007513679797458,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0014.jpg,zucchini_powdery_mildew_Google_0123.jpg,train,train,0,0.9997845888137816,0.8465236686390533,squash powdery mildew,zucchini powdery mildew Google
+squash_powdery_mildew_google_0028.jpg,zucchini_powdery_mildew_Bing_0343.jpg,train,train,0,0.9999335408210754,0.9072864534735772,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0059.jpg,zucchini_powdery_mildew_Bing_0112.jpg,train,train,2,0.996113896369934,0.8397983227342978,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0059.jpg,zucchini_powdery_mildew_Bing_0143.jpg,train,train,2,0.996201992034912,0.8397983227342978,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0066.jpg,zucchini_powdery_mildew_Bing_0054.jpg,train,test,0,0.9998629093170166,0.9453905797030238,squash powdery mildew,zucchini powdery mildew Bing
+squash_powdery_mildew_google_0151.jpg,zucchini_powdery_mildew_Google_0273.jpg,train,train,0,0.9999129176139832,0.654966654966655,squash powdery mildew,zucchini powdery mildew Google
+squash_powdery_mildew_google_0192.jpg,cucumber_powdery_mildew_google_0026.jpg,train,test,0,1.0,0.8267712970648156,squash powdery mildew,cucumber powdery mildew
+squash_powdery_mildew_google_0227.jpg,zucchini_powdery_mildew_Google_0017.jpg,train,val,0,0.9998539686203004,0.4264080839924564,squash powdery mildew,zucchini powdery mildew Google
+squash_powdery_mildew_google_0329.jpg,cucumber_powdery_mildew_google_0022.jpg,train,val,0,1.0000001192092896,0.3200733692536971,squash powdery mildew,cucumber powdery mildew
+tobacco_blue_mold_Bing_0000.jpg,tobacco_blue_mold_Bing_0073.jpg,train,train,0,0.9997742176055908,0.2992641046606705,tobacco blue mold Bing,tobacco blue mold Bing
+tobacco_blue_mold_Bing_0034.jpg,tobacco_blue_mold_Bing_0066.jpg,train,train,2,0.9987078905105592,0.9532608695652174,tobacco blue mold Bing,tobacco blue mold Bing
+tobacco_blue_mold_Bing_0082.jpg,tobacco_blue_mold_Bing_0016.jpg,train,test,0,0.9996558427810668,0.8004223864836325,tobacco blue mold Bing,tobacco blue mold Bing
+tobacco_blue_mold_Bing_0100.jpg,tobacco_frogeye_leaf_spot_Google_0032.jpg,train,train,2,0.9951632618904114,0.9529466316324052,tobacco blue mold Bing,tobacco frogeye leaf spot Google
+tobacco_blue_mold_Bing_0100.jpg,tobacco_brown_spot_Google_0029.jpg,train,test,2,0.9951632618904114,0.96425855513308,tobacco blue mold Bing,tobacco brown spot Google
+tobacco_blue_mold_Bing_0106.jpg,tobacco_blue_mold_Bing_0123.jpg,train,train,2,0.997827172279358,0.8774906293154469,tobacco blue mold Bing,tobacco blue mold Bing
+tobacco_blue_mold_Bing_0119.jpg,tobacco_blue_mold_Google_0103.jpg,train,train,0,1.0,0.7782689024532847,tobacco blue mold Bing,tobacco blue mold Google
+tobacco_blue_mold_Bing_0141.jpg,tobacco_blue_mold_Google_0008.jpg,train,test,0,0.9991084337234496,0.9024135266578792,tobacco blue mold Bing,tobacco blue mold Google
+tobacco_blue_mold_Google_0046.jpg,tobacco_blue_mold_Bing_0107.jpg,train,test,0,1.0,0.8036137662532132,tobacco blue mold Google,tobacco blue mold Bing
+tobacco_blue_mold_Google_0046.jpg,tobacco_brown_spot_Bing_0159.jpg,train,test,0,1.0,0.8846282421882682,tobacco blue mold Google,tobacco brown spot Bing
+tobacco_blue_mold_Google_0051.jpg,tobacco_blue_mold_Bing_0127.jpg,train,test,2,0.9995900392532348,0.6584880636604774,tobacco blue mold Google,tobacco blue mold Bing
+tobacco_brown_spot_Bing_0000.jpg,tobacco_brown_spot_Bing_0043.jpg,train,train,0,0.9996695518493652,0.9086187708668232,tobacco brown spot Bing,tobacco brown spot Bing
+tobacco_brown_spot_Bing_0000.jpg,tobacco_frogeye_leaf_spot_Bing_0024.jpg,train,val,0,1.0,0.9228768370399272,tobacco brown spot Bing,tobacco frogeye leaf spot Bing
+tobacco_brown_spot_Bing_0005.jpg,tobacco_brown_spot_Bing_0095.jpg,train,train,4,0.974798023700714,0.9524680073126144,tobacco brown spot Bing,tobacco brown spot Bing
+tobacco_brown_spot_Bing_0005.jpg,tobacco_brown_spot_Bing_0122.jpg,train,test,4,0.9749270677566528,0.9517897239466384,tobacco brown spot Bing,tobacco brown spot Bing
+tobacco_brown_spot_Bing_0007.jpg,tobacco_brown_spot_Bing_0035.jpg,train,train,0,0.9999417662620544,0.9477796380451248,tobacco brown spot Bing,tobacco brown spot Bing
+tobacco_brown_spot_Bing_0009.jpg,tobacco_frogeye_leaf_spot_Bing_0008.jpg,train,train,0,0.999703586101532,0.9089976928992566,tobacco brown spot Bing,tobacco frogeye leaf spot Bing
+tobacco_brown_spot_Bing_0025.jpg,tobacco_brown_spot_Bing_0059.jpg,train,train,0,0.9997962117195128,0.96856050955414,tobacco brown spot Bing,tobacco brown spot Bing
+tobacco_brown_spot_Bing_0029.jpg,tobacco_brown_spot_Bing_0039.jpg,train,train,0,0.999611794948578,0.7021876519202722,tobacco brown spot Bing,tobacco brown spot Bing
+tobacco_brown_spot_Bing_0043.jpg,tobacco_frogeye_leaf_spot_Bing_0024.jpg,train,val,0,0.9996695518493652,0.9161631419939577,tobacco brown spot Bing,tobacco frogeye leaf spot Bing
+tobacco_brown_spot_Bing_0095.jpg,tobacco_brown_spot_Bing_0122.jpg,train,test,0,0.999660074710846,0.957967292877416,tobacco brown spot Bing,tobacco brown spot Bing
+tobacco_frogeye_leaf_spot_Bing_0006.jpg,tobacco_brown_spot_Bing_0012.jpg,train,val,0,0.9999998807907104,0.7672253258845437,tobacco frogeye leaf spot Bing,tobacco brown spot Bing
+tobacco_frogeye_leaf_spot_Bing_0034.jpg,tobacco_frogeye_leaf_spot_Bing_0072.jpg,train,train,0,0.9999998807907104,0.9446298945583638,tobacco frogeye leaf spot Bing,tobacco frogeye leaf spot Bing
+tobacco_frogeye_leaf_spot_Bing_0034.jpg,tobacco_brown_spot_Bing_0004.jpg,train,test,0,0.9999998807907104,0.9388804364933634,tobacco frogeye leaf spot Bing,tobacco brown spot Bing
+tobacco_frogeye_leaf_spot_Bing_0072.jpg,tobacco_brown_spot_Bing_0004.jpg,train,test,0,0.9999998807907104,0.94244376386102,tobacco frogeye leaf spot Bing,tobacco brown spot Bing
+tobacco_frogeye_leaf_spot_Google_0032.jpg,tobacco_brown_spot_Google_0029.jpg,train,test,0,1.0,0.9535883682787356,tobacco frogeye leaf spot Google,tobacco brown spot Google
+tobacco_mosaic_virus_19.jpg,tomato_mosaic_virus_33.jpg,train,test,0,0.99925297498703,0.2944440940909377,tobacco mosaic virus,tomato mosaic virus
+tomato_bacterial_leaf_spot_28.jpg,tomato_septoria_leaf_spot_6.jpg,train,train,0,1.0,0.6693752058855825,tomato bacterial leaf spot,tomato septoria leaf spot
+tomato_bacterial_leaf_spot_google_0017.jpg,tomato_septoria_leaf_spot_google_0113.jpg,train,train,0,1.0,0.6683168316831684,tomato bacterial leaf spot,tomato septoria leaf spot
+tomato_bacterial_leaf_spot_google_0066.jpg,plum_bacterial_spot_Google_0057.jpg,train,test,0,0.9997797012329102,0.8093616347220022,tomato bacterial leaf spot,plum bacterial spot Google
+tomato_bacterial_leaf_spot_google_0091.jpg,tomato_septoria_leaf_spot_google_0204.jpg,train,train,0,1.0,0.659824564846249,tomato bacterial leaf spot,tomato septoria leaf spot
+tomato_early_blight_193.jpg,tomato_early_blight_47.jpg,train,train,0,0.9997377395629884,0.5522815288769153,tomato early blight,tomato early blight
+tomato_early_blight_210.jpg,tomato_septoria_leaf_spot_243.jpg,train,test,2,0.9645887613296508,0.7673248161053039,tomato early blight,tomato septoria leaf spot
+tomato_early_blight_google_0260.jpg,tomato_septoria_leaf_spot_google_0205.jpg,train,test,0,1.0,0.3470713126014737,tomato early blight,tomato septoria leaf spot
+tomato_early_blight_google_0322.jpg,tomato_septoria_leaf_spot_google_0001.jpg,train,train,0,0.9997606873512268,0.2787805069449894,tomato early blight,tomato septoria leaf spot
+tomato_leaf_mold_195.jpg,tomato_leaf_mold_google_0260.jpg,train,train,4,0.9827206134796144,0.7649637648742954,tomato leaf mold,tomato leaf mold
+tomato_mosaic_virus_1.jpg,tomato_yellow_leaf_curl_virus_11.jpg,train,train,0,1.0,0.8135919658825148,tomato mosaic virus,tomato yellow leaf curl virus
+tomato_mosaic_virus_184.jpg,bean_mosaic_virus_30.jpg,train,test,0,1.0,0.9586704378521784,tomato mosaic virus,bean mosaic virus
+tomato_mosaic_virus_2.jpg,tomato_yellow_leaf_curl_virus_1.jpg,train,val,0,0.9999998807907104,0.1564743037611254,tomato mosaic virus,tomato yellow leaf curl virus
+tomato_septoria_leaf_spot_1.jpg,eggplant_cercospora_leaf_spot_96.jpg,train,test,0,1.0000001192092896,0.1304347826086956,tomato septoria leaf spot,eggplant cercospora leaf spot
+tomato_septoria_leaf_spot_174.jpg,tomato_bacterial_leaf_spot_78.jpg,train,test,0,0.9819499850273132,0.4838830118232732,tomato septoria leaf spot,tomato bacterial leaf spot
+wheat_bacterial_leaf_streak_(black_chaff)_Bing_0002.jpg,wheat_septoria_blotch_blotch (23).jpg,train,train,0,1.0,0.942691368078176,wheat bacterial leaf streak (black chaff) Bing,wheat septoria blotch blotch ()
+wheat_bacterial_leaf_streak_(black_chaff)_Bing_0005.jpg,wheat_septoria_blotch_blotch (58).jpg,train,train,0,1.0,0.958631491661804,wheat bacterial leaf streak (black chaff) Bing,wheat septoria blotch blotch ()
+wheat_bacterial_leaf_streak_(black_chaff)_Bing_0006.jpg,wheat_septoria_blotch_blotch (100).jpg,train,train,0,1.0,0.8008613617719442,wheat bacterial leaf streak (black chaff) Bing,wheat septoria blotch blotch ()
+wheat_bacterial_leaf_streak_(black_chaff)_Bing_0006.jpg,wheat_septoria_blotch_blotch (22).jpg,train,test,0,1.0,0.7663581927054981,wheat bacterial leaf streak (black chaff) Bing,wheat septoria blotch blotch ()
+wheat_bacterial_leaf_streak_(black_chaff)_Bing_0023.jpg,wheat_septoria_blotch_blotch (71).jpg,train,train,0,0.9999999403953552,0.9386981889823444,wheat bacterial leaf streak (black chaff) Bing,wheat septoria blotch blotch ()
+wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (1).jpg,wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (26).jpg,train,val,2,0.9995548725128174,0.8000558795795062,wheat bacterial leaf streak (black chaff) black chaff (),wheat bacterial leaf streak (black chaff) black chaff ()
+wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (24).jpg,wheat_bacterial_leaf_streak_(black_chaff)_google_black_chaff (1).jpg,train,val,0,0.9999997615814208,0.5014897016278769,wheat bacterial leaf streak (black chaff) black chaff (),wheat bacterial leaf streak (black chaff)black chaff ()
+wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (27).jpg,wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (6).jpg,train,train,0,0.9994193911552428,0.3862332695984704,wheat bacterial leaf streak (black chaff) black chaff (),wheat bacterial leaf streak (black chaff) black chaff ()
+wheat_head_scab_Baidu_0030.jpg,wheat_head_scab_Baidu_0321.jpg,train,train,4,0.993582010269165,0.8970567722136978,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0058.jpg,wheat_head_scab_Baidu_0215.jpg,train,train,2,0.976022720336914,0.7187892564455345,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0058.jpg,wheat_head_scab_Baidu_0322.jpg,train,train,2,0.976022720336914,0.6607967824338279,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0085.jpg,wheat_head_scab_Baidu_0298.jpg,train,train,0,1.0,0.8354532458487592,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0085.jpg,wheat_head_scab_Bing_0006.jpg,train,train,0,0.9833347201347352,0.8752627664047088,wheat head scab Baidu,wheat head scab Bing
+wheat_head_scab_Baidu_0091.jpg,wheat_head_scab_Baidu_0094.jpg,train,train,0,0.9999998807907104,0.9085518283820708,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0092.jpg,wheat_head_scab_Baidu_0095.jpg,train,train,0,0.9999999403953552,0.8737696051919956,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0131.jpg,wheat_head_scab_Baidu_0364.jpg,train,train,0,1.0,0.7564237021499738,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0194.jpg,wheat_head_scab_Baidu_0296.jpg,train,train,0,0.9999998807907104,0.9080226316553024,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0197.jpg,wheat_head_scab_Baidu_0303.jpg,train,train,0,1.0,0.866764370623677,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0202.jpg,wheat_head_scab_Baidu_0496.jpg,train,train,0,0.9979856014251708,0.9104481325735898,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0202.jpg,wheat_head_scab_Baidu_0310.jpg,train,test,0,0.9999998807907104,0.9519812193213346,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0215.jpg,wheat_head_scab_Baidu_0322.jpg,train,train,0,1.0,0.7691350342252644,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0231.jpg,wheat_head_scab_Baidu_0344.jpg,train,train,0,0.9999999403953552,0.7417310772230347,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0247.jpg,wheat_head_scab_Baidu_0368.jpg,train,test,0,1.0,0.3312878872401353,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0254.jpg,wheat_head_scab_Baidu_0380.jpg,train,train,0,1.000000238418579,0.8028327901729757,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0257.jpg,wheat_head_scab_Baidu_0383.jpg,train,train,0,0.9999998807907104,0.7938896488828089,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0271.jpg,wheat_head_scab_Baidu_0394.jpg,train,train,0,0.9999999403953552,0.8779550827423168,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0276.jpg,wheat_head_scab_Baidu_0399.jpg,train,train,0,1.000000238418579,0.8276309388681693,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0289.jpg,wheat_head_scab_Baidu_0192.jpg,train,val,0,1.0,0.7158778872556938,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0291.jpg,wheat_head_scab_Baidu_0065.jpg,train,test,0,0.9999999403953552,0.8787018255578093,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0298.jpg,wheat_head_scab_Bing_0006.jpg,train,train,0,0.9833347201347352,0.8323436262866192,wheat head scab Baidu,wheat head scab Bing
+wheat_head_scab_Baidu_0369.jpg,wheat_head_scab_Baidu_0176.jpg,train,val,0,0.9982435703277588,0.8665145464917284,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0496.jpg,wheat_head_scab_Baidu_0310.jpg,train,test,0,0.9979856014251708,0.9265343482031024,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Bing_0002.jpg,wheat_head_scab_Bing_0100.jpg,train,train,0,0.9999479055404664,0.645358175393511,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0002.jpg,wheat_head_scab_Google_0105.jpg,train,train,0,0.9999479055404664,0.6879278158058494,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0007.jpg,wheat_head_scab_Google_0331.jpg,train,train,0,0.998725414276123,0.8123361873143456,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0008.jpg,wheat_head_scab_Bing_0202.jpg,train,train,0,1.0,0.942489270386266,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0008.jpg,wheat_head_scab_Google_0259.jpg,train,train,0,1.0,0.9272727272727272,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0009.jpg,wheat_head_scab_Bing_0111.jpg,train,test,0,0.999709963798523,0.8828125,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0013.jpg,wheat_head_scab_Bing_0090.jpg,train,train,0,0.9985105991363524,0.8717770381042277,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0013.jpg,wheat_head_scab_Google_0027.jpg,train,train,0,0.9999997615814208,0.8656295677594488,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0014.jpg,wheat_head_scab_Bing_0206.jpg,train,test,0,1.0,0.8563174341135547,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0036.jpg,wheat_head_scab_Bing_0144.jpg,train,train,0,1.0000001192092896,0.8744830669498156,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0039.jpg,wheat_head_scab_Bing_0232.jpg,train,train,0,1.0,0.6622606337908828,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0051.jpg,wheat_head_scab_Bing_0102.jpg,train,train,0,1.0,0.92565143029612,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0052.jpg,wheat_head_scab_Google_0034.jpg,train,test,0,1.0,0.8574739281575898,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0067.jpg,wheat_head_scab_Bing_0132.jpg,train,train,0,0.9999999403953552,0.822918484901379,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0069.jpg,wheat_head_scab_Bing_0118.jpg,train,train,0,0.9999998807907104,0.8825086076885866,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0090.jpg,wheat_head_scab_Google_0027.jpg,train,train,0,0.9985105991363524,0.8814850582112774,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0095.jpg,wheat_head_scab_Bing_0004.jpg,train,val,0,0.9998904466629028,0.8438133874239351,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0097.jpg,wheat_head_scab_Bing_0025.jpg,train,val,0,1.0,0.8791283622744297,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0097.jpg,wheat_head_scab_Google_0057.jpg,train,test,0,1.0,0.8479899497487438,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0100.jpg,wheat_head_scab_Google_0105.jpg,train,train,0,1.0,0.8538425271098539,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0109.jpg,wheat_head_scab_Bing_0043.jpg,train,test,0,1.0,0.8459231359419683,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0126.jpg,wheat_head_scab_Bing_0001.jpg,train,val,0,0.9997879266738892,0.877799955644267,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0129.jpg,wheat_head_scab_Google_0088.jpg,train,train,0,0.9999999403953552,0.9168804515135968,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0145.jpg,wheat_head_scab_Google_0083.jpg,train,test,0,1.0000001192092896,0.951092611862643,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0156.jpg,wheat_head_scab_Bing_0023.jpg,train,test,0,0.9999999403953552,0.8714921024382764,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0175.jpg,wheat_head_scab_Google_0196.jpg,train,train,0,1.0,0.752442996742671,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0202.jpg,wheat_head_scab_Google_0259.jpg,train,train,0,1.0,0.9090909090909092,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0211.jpg,wheat_head_scab_Bing_0056.jpg,train,val,0,0.9999998807907104,0.8998932566018472,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0214.jpg,wheat_head_scab_Google_0309.jpg,train,test,0,0.9998873472213744,0.7538411245505067,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0216.jpg,wheat_head_scab_Google_0068.jpg,train,train,0,0.999863862991333,0.9273335360291882,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0229.jpg,wheat_head_scab_Bing_0040.jpg,train,test,0,1.0,0.6135458167330677,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Bing_0284.jpg,wheat_head_scab_Google_0357.jpg,train,train,0,0.9996872544288636,0.9681175492098696,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Google_0042.jpg,wheat_head_scab_Bing_0071.jpg,train,test,0,0.999862790107727,0.7927590511860175,wheat head scab Google,wheat head scab Bing
+wheat_head_scab_Google_0044.jpg,wheat_head_scab_Bing_0034.jpg,train,val,2,0.9841518402099608,0.7771280051981806,wheat head scab Google,wheat head scab Bing
+wheat_head_scab_Google_0044.jpg,wheat_head_scab_Bing_0298.jpg,train,test,2,0.9863648414611816,0.7592367032074706,wheat head scab Google,wheat head scab Bing
+wheat_head_scab_Google_0129.jpg,wheat_loose_smut_Google_0377.jpg,train,train,2,0.9994908571243286,0.5383265067290813,wheat head scab Google,wheat loose smut Google
+wheat_head_scab_Google_0229.jpg,wheat_head_scab_Bing_0219.jpg,train,test,0,1.0000001192092896,0.9419297858246852,wheat head scab Google,wheat head scab Bing
+wheat_leaf_rust_Baidu_0112.jpg,wheat_septoria_blotch_blotch (126).jpg,train,train,0,0.9997708201408386,0.7402127659574468,wheat leaf rust Baidu,wheat septoria blotch blotch ()
+wheat_leaf_rust_Bing_0001.jpg,wheat_leaf_rust_Google_0000.jpg,train,train,0,0.9999999403953552,0.9870274060655642,wheat leaf rust Bing,wheat leaf rust Google
+wheat_leaf_rust_Bing_0009.jpg,wheat_stripe_rust_Bing_0028.jpg,train,train,0,0.9999998807907104,0.8371246587807097,wheat leaf rust Bing,wheat stripe rust Bing
+wheat_leaf_rust_Bing_0015.jpg,wheat_leaf_rust_Google_0040.jpg,train,test,0,0.9999953508377076,0.9132072684296056,wheat leaf rust Bing,wheat leaf rust Google
+wheat_leaf_rust_Bing_0037.jpg,wheat_leaf_rust_Google_0079.jpg,train,train,0,0.9999998807907104,0.9749956062566904,wheat leaf rust Bing,wheat leaf rust Google
+wheat_leaf_rust_Bing_0043.jpg,wheat_stripe_rust_Google_0307.jpg,train,train,0,0.9999998807907104,0.7200494666872778,wheat leaf rust Bing,wheat stripe rust Google
+wheat_leaf_rust_Bing_0051.jpg,wheat_leaf_rust_Google_0263.jpg,train,train,0,0.999884843826294,0.8906287069988138,wheat leaf rust Bing,wheat leaf rust Google
+wheat_leaf_rust_Bing_0058.jpg,wheat_leaf_rust_Google_0044.jpg,train,train,0,0.999660849571228,0.994762528270444,wheat leaf rust Bing,wheat leaf rust Google
+wheat_leaf_rust_Google_0066.jpg,wheat_stripe_rust_Google_0147.jpg,train,train,0,1.0,0.4460893854748603,wheat leaf rust Google,wheat stripe rust Google
+wheat_leaf_rust_Google_0355.jpg,wheat_stripe_rust_Bing_0247.jpg,train,train,0,0.9999998807907104,0.8847998433982578,wheat leaf rust Google,wheat stripe rust Bing
+wheat_loose_smut_Baidu_0042.jpg,wheat_loose_smut_Bing_0127.jpg,train,train,2,0.9992506504058838,0.9123016087969232,wheat loose smut Baidu,wheat loose smut Bing
+wheat_loose_smut_Bing_0000.jpg,wheat_loose_smut_Bing_0197.jpg,train,train,0,0.9992730617523192,0.9469461438170697,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0000.jpg,wheat_loose_smut_Google_0007.jpg,train,train,0,0.9995527267456056,0.950467749876908,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0000.jpg,wheat_loose_smut_Bing_0077.jpg,train,val,2,0.9991167783737184,0.9476035743298132,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0001.jpg,wheat_loose_smut_Bing_0141.jpg,train,train,2,0.9994346499443054,0.9353840007989612,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0001.jpg,wheat_loose_smut_Google_0040.jpg,train,train,2,0.9998135566711426,0.9387071344107212,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0011.jpg,wheat_loose_smut_Bing_0097.jpg,train,test,2,0.9975317716598512,0.9393542757417104,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0013.jpg,wheat_loose_smut_Bing_0139.jpg,train,val,0,0.9998116493225098,0.9405370430281462,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0015.jpg,wheat_loose_smut_Google_0041.jpg,train,train,0,0.9999999403953552,0.9169022046353872,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0018.jpg,wheat_loose_smut_Bing_0134.jpg,train,train,2,0.9996815323829652,0.8794027967616445,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0018.jpg,wheat_loose_smut_Bing_0165.jpg,train,train,2,0.9996815323829652,0.927176884029676,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0023.jpg,wheat_loose_smut_Bing_0192.jpg,train,train,0,1.0,0.957812868253594,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0025.jpg,wheat_loose_smut_Google_0061.jpg,train,train,2,0.9985422492027284,0.8908526391210891,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0032.jpg,wheat_loose_smut_Bing_0128.jpg,train,train,0,0.9999999403953552,0.8716461203770849,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0032.jpg,wheat_loose_smut_Google_0013.jpg,train,train,2,0.9863751530647278,0.8966000701016474,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0033.jpg,wheat_loose_smut_Bing_0093.jpg,train,train,0,0.9996008276939392,0.9203246988263276,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0043.jpg,wheat_loose_smut_Bing_0169.jpg,train,train,0,1.0,0.9011299435028248,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0047.jpg,wheat_loose_smut_Bing_0126.jpg,train,train,0,0.9993555545806884,0.917815389984296,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0048.jpg,wheat_loose_smut_Bing_0076.jpg,train,val,0,1.0,0.9012623985572588,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0062.jpg,wheat_loose_smut_Bing_0239.jpg,train,test,0,1.0,0.9367803606343688,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0067.jpg,wheat_loose_smut_Bing_0164.jpg,train,train,0,0.9999998211860656,0.8785143151921588,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0079.jpg,wheat_loose_smut_Bing_0100.jpg,train,train,0,0.9999999403953552,0.9374130737134908,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0091.jpg,wheat_loose_smut_Google_0132.jpg,train,train,0,1.0,0.9188687992582292,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0103.jpg,wheat_loose_smut_Bing_0133.jpg,train,train,0,0.9999999403953552,0.9274068469831662,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0103.jpg,wheat_loose_smut_Google_0038.jpg,train,train,0,0.9991244077682496,0.9331168329080648,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0104.jpg,wheat_loose_smut_Bing_0129.jpg,train,train,0,0.9999997615814208,0.9019950487840396,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0104.jpg,wheat_loose_smut_Bing_0008.jpg,train,test,0,0.9999997615814208,0.9326343381389252,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0111.jpg,wheat_loose_smut_Bing_0145.jpg,train,train,0,1.0,0.948850383205598,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0115.jpg,wheat_loose_smut_Bing_0140.jpg,train,train,0,1.0,0.918406072106262,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0121.jpg,wheat_loose_smut_Google_0062.jpg,train,train,4,0.9662228226661682,0.8979314099074578,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0128.jpg,wheat_loose_smut_Google_0013.jpg,train,train,2,0.9863751530647278,0.8935024990388312,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0129.jpg,wheat_loose_smut_Bing_0008.jpg,train,test,0,0.9999997615814208,0.8670279283034598,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0133.jpg,wheat_loose_smut_Google_0038.jpg,train,train,0,0.9991244077682496,0.9272958691711344,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0134.jpg,wheat_loose_smut_Bing_0165.jpg,train,train,0,1.0,0.9008989952406136,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0141.jpg,wheat_loose_smut_Google_0040.jpg,train,train,2,0.9994463324546814,0.937175440382853,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0191.jpg,wheat_loose_smut_Bing_0184.jpg,train,val,0,0.9999998807907104,0.918397827562797,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0197.jpg,wheat_loose_smut_Google_0007.jpg,train,train,0,0.9996672868728638,0.9540664147941936,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0197.jpg,wheat_loose_smut_Bing_0077.jpg,train,val,2,0.9995285272598268,0.9512870474823096,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0200.jpg,wheat_loose_smut_Bing_0228.jpg,train,train,0,0.9999998807907104,0.938803219862283,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0200.jpg,wheat_loose_smut_Google_0081.jpg,train,test,0,0.9997544288635254,0.9409820126397668,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0224.jpg,wheat_loose_smut_Google_0206.jpg,train,train,0,0.9935421347618104,0.931893189318932,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0224.jpg,wheat_loose_smut_Google_0065.jpg,train,test,0,1.0,0.9333806230419104,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0228.jpg,wheat_loose_smut_Google_0081.jpg,train,test,0,0.9997544288635254,0.9553554680172576,wheat loose smut Bing,wheat loose smut Google
+wheat_loose_smut_Bing_0236.jpg,wheat_loose_smut_Bing_0268.jpg,train,train,0,0.9999999403953552,0.9018504306301696,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0296.jpg,wheat_loose_smut_Bing_0329.jpg,train,train,0,1.0,0.9508166969147004,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0321.jpg,wheat_loose_smut_Bing_0384.jpg,train,train,0,1.0,0.9243138617301108,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0323.jpg,wheat_loose_smut_Bing_0006.jpg,train,val,0,0.9994663000106812,0.912718204488778,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0337.jpg,wheat_loose_smut_Bing_0368.jpg,train,train,0,1.0000001192092896,0.9335411332516976,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Bing_0364.jpg,wheat_loose_smut_Bing_0263.jpg,train,test,0,0.9992729425430298,0.9322953526775184,wheat loose smut Bing,wheat loose smut Bing
+wheat_loose_smut_Google_0002.jpg,wheat_loose_smut_Bing_0014.jpg,train,val,0,1.0,0.9402454134857507,wheat loose smut Google,wheat loose smut Bing
+wheat_loose_smut_Google_0007.jpg,wheat_loose_smut_Bing_0077.jpg,train,val,2,0.9995354413986206,0.9507800704579767,wheat loose smut Google,wheat loose smut Bing
+wheat_loose_smut_Google_0206.jpg,wheat_loose_smut_Google_0065.jpg,train,test,0,0.9935421347618104,0.9300406601291556,wheat loose smut Google,wheat loose smut Google
+wheat_powdery_mildew_Baidu_0022.jpg,wheat_powdery_mildew_Baidu_0178.jpg,train,train,0,0.999868869781494,0.9863672051580976,wheat powdery mildew Baidu,wheat powdery mildew Baidu
+wheat_powdery_mildew_Bing_0011.jpg,wheat_powdery_mildew_Bing_0083.jpg,train,train,2,0.9998616576194764,0.8513292109296549,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0021.jpg,wheat_powdery_mildew_Bing_0096.jpg,train,train,0,0.9995978474617004,0.923285371702638,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0027.jpg,wheat_powdery_mildew_Bing_0107.jpg,train,train,0,0.9999998807907104,0.9888987760937112,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0036.jpg,wheat_powdery_mildew_Bing_0152.jpg,train,train,0,0.9999999403953552,0.9801919084226476,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0040.jpg,wheat_powdery_mildew_Bing_0110.jpg,train,val,0,0.9999998807907104,0.968955726810396,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0056.jpg,wheat_powdery_mildew_Bing_0187.jpg,train,train,0,0.9999999403953552,0.9902701019693314,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0057.jpg,wheat_powdery_mildew_Bing_0224.jpg,train,train,0,0.9999998807907104,0.9942422010353664,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0066.jpg,wheat_powdery_mildew_Google_0012.jpg,train,train,0,1.0000001192092896,0.954979237998106,wheat powdery mildew Bing,wheat powdery mildew Google
+wheat_powdery_mildew_Bing_0106.jpg,wheat_powdery_mildew_Google_0101.jpg,train,test,0,0.9996545314788818,0.9825958819546776,wheat powdery mildew Bing,wheat powdery mildew Google
+wheat_powdery_mildew_Bing_0127.jpg,wheat_powdery_mildew_Google_0016.jpg,train,train,0,0.9998661279678344,0.9821949845507776,wheat powdery mildew Bing,wheat powdery mildew Google
+wheat_powdery_mildew_Bing_0127.jpg,wheat_powdery_mildew_Bing_0023.jpg,train,test,0,0.9998353719711304,0.9836529234498896,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0136.jpg,wheat_powdery_mildew_Bing_0172.jpg,train,train,0,0.9992179870605468,0.9858269632393196,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Bing_0206.jpg,wheat_powdery_mildew_Bing_0037.jpg,train,test,0,0.9999999403953552,0.9783610034131954,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_powdery_mildew_Google_0016.jpg,wheat_powdery_mildew_Bing_0023.jpg,train,test,0,0.9998503923416138,0.9719279119681122,wheat powdery mildew Google,wheat powdery mildew Bing
+wheat_powdery_mildew_Google_0163.jpg,wheat_powdery_mildew_Bing_0090.jpg,train,val,0,1.0,0.5178078906343686,wheat powdery mildew Google,wheat powdery mildew Bing
+wheat_septoria_blotch_Bing_0000.jpg,wheat_septoria_blotch_blotch (1).jpg,train,train,0,1.000000238418579,0.9637658580013354,wheat septoria blotch Bing,wheat septoria blotch blotch ()
+wheat_septoria_blotch_Bing_0017.jpg,wheat_septoria_blotch_blotch (70).jpg,train,train,0,0.9999999403953552,0.7236715902551314,wheat septoria blotch Bing,wheat septoria blotch blotch ()
+wheat_septoria_blotch_Bing_0031.jpg,wheat_septoria_blotch_blotch (20).jpg,train,train,0,0.9999057054519652,0.9472416768678132,wheat septoria blotch Bing,wheat septoria blotch blotch ()
+wheat_septoria_blotch_Bing_0043.jpg,wheat_septoria_blotch_blotch (42).jpg,train,train,0,0.9987105131149292,0.635672617995404,wheat septoria blotch Bing,wheat septoria blotch blotch ()
+wheat_septoria_blotch_Bing_0043.jpg,wheat_septoria_blotch_google_septoria (5).jpg,train,train,0,0.9986977577209472,0.8142010402806339,wheat septoria blotch Bing,wheat septoria blotchseptoria ()
+wheat_septoria_blotch_Google_0005.jpg,wheat_septoria_blotch_google_septoria (1).jpg,train,train,0,1.0,0.9835626190924892,wheat septoria blotch Google,wheat septoria blotchseptoria ()
+wheat_septoria_blotch_Google_0142.jpg,wheat_septoria_blotch_google_septoria (12).jpg,train,train,0,0.9999998807907104,0.9791909372112642,wheat septoria blotch Google,wheat septoria blotchseptoria ()
+wheat_septoria_blotch_Google_0178.jpg,wheat_septoria_blotch_google_septoria (2).jpg,train,test,0,0.9999997615814208,0.9437722419928826,wheat septoria blotch Google,wheat septoria blotchseptoria ()
+wheat_septoria_blotch_Google_0212.jpg,wheat_bacterial_leaf_streak_(black_chaff)_Google_0141.jpg,train,test,0,0.9999998807907104,0.8001608363490149,wheat septoria blotch Google,wheat bacterial leaf streak (black chaff) Google
+wheat_septoria_blotch_Google_0296.jpg,wheat_septoria_blotch_blotch (36).jpg,train,train,0,0.9999402165412904,0.618021978021978,wheat septoria blotch Google,wheat septoria blotch blotch ()
+wheat_septoria_blotch_Google_0296.jpg,wheat_septoria_blotch_google_septoria (16).jpg,train,test,0,1.0,0.8709774436090225,wheat septoria blotch Google,wheat septoria blotchseptoria ()
+wheat_septoria_blotch_Google_0338.jpg,wheat_septoria_blotch_google_septoria (25).jpg,train,val,0,1.0,0.8966999892507793,wheat septoria blotch Google,wheat septoria blotchseptoria ()
+wheat_septoria_blotch_blotch (100).jpg,wheat_septoria_blotch_blotch (22).jpg,train,test,0,1.0,0.7967799188640974,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (105).jpg,wheat_septoria_blotch_Bing_0045.jpg,train,test,0,0.9999999403953552,0.8248985935782251,wheat septoria blotch blotch (),wheat septoria blotch Bing
+wheat_septoria_blotch_blotch (14).jpg,wheat_septoria_blotch_blotch (69).jpg,train,test,0,1.0000001192092896,0.526735574184097,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (17).jpg,wheat_septoria_blotch_blotch (48).jpg,train,train,0,1.0,0.8440620316893701,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (17).jpg,wheat_septoria_blotch_Bing_0014.jpg,train,val,0,1.0,0.9499544688353708,wheat septoria blotch blotch (),wheat septoria blotch Bing
+wheat_septoria_blotch_blotch (30).jpg,wheat_septoria_blotch_blotch (96).jpg,train,train,0,0.9999998807907104,0.7957991022274922,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (32).jpg,wheat_septoria_blotch_blotch (68).jpg,train,val,0,1.0,0.8851153039832285,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (33).jpg,wheat_septoria_blotch_blotch (79).jpg,train,test,0,1.0,0.3021203740287106,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (36).jpg,wheat_septoria_blotch_google_septoria (16).jpg,train,test,0,0.9999402165412904,0.5642054574638844,wheat septoria blotch blotch (),wheat septoria blotchseptoria ()
+wheat_septoria_blotch_blotch (37).jpg,wheat_septoria_blotch_blotch (45).jpg,train,train,0,0.9999999403953552,0.9269503677492266,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (41).jpg,wheat_septoria_blotch_blotch (18).jpg,train,val,0,0.9999998807907104,0.8959551087210662,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (42).jpg,wheat_septoria_blotch_google_septoria (5).jpg,train,train,0,0.9999977946281432,0.7806420447059856,wheat septoria blotch blotch (),wheat septoria blotchseptoria ()
+wheat_septoria_blotch_blotch (43).jpg,wheat_septoria_blotch_blotch (39).jpg,train,test,0,1.0,0.8260236956973602,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (48).jpg,wheat_septoria_blotch_Bing_0014.jpg,train,val,0,1.0,0.8236248096908718,wheat septoria blotch blotch (),wheat septoria blotch Bing
+wheat_septoria_blotch_blotch (55).jpg,wheat_septoria_blotch_blotch (73).jpg,train,train,2,0.9998289346694946,0.9602996254681648,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (56).jpg,wheat_septoria_blotch_google_septoria (21).jpg,train,train,0,0.9997695684432985,0.9301815189063144,wheat septoria blotch blotch (),wheat septoria blotchseptoria ()
+wheat_septoria_blotch_blotch (56).jpg,wheat_septoria_blotch_Google_0309.jpg,train,test,0,0.9997695684432985,0.9038984183559812,wheat septoria blotch blotch (),wheat septoria blotch Google
+wheat_septoria_blotch_blotch (62).jpg,wheat_septoria_blotch_blotch (8).jpg,train,val,2,0.9783133864402772,0.7127589391740335,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (66).jpg,wheat_septoria_blotch_blotch (16).jpg,train,val,2,0.9996506571769714,0.7021769758669273,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (66).jpg,wheat_septoria_blotch_blotch (111).jpg,train,test,2,0.9996506571769714,0.8268978642419116,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (77).jpg,wheat_septoria_blotch_Bing_0047.jpg,train,val,0,0.9998174905776978,0.8985830139916229,wheat septoria blotch blotch (),wheat septoria blotch Bing
+wheat_septoria_blotch_google_septoria (10).jpg,wheat_septoria_blotch_Google_0058.jpg,train,test,0,1.0,0.941020941621849,wheat septoria blotchseptoria (),wheat septoria blotch Google
+wheat_septoria_blotch_google_septoria (13).jpg,wheat_septoria_blotch_Google_0206.jpg,train,test,0,1.000000238418579,0.9193931262256166,wheat septoria blotchseptoria (),wheat septoria blotch Google
+wheat_septoria_blotch_google_septoria (21).jpg,wheat_septoria_blotch_Google_0309.jpg,train,test,0,1.0000001192092896,0.9102827763496144,wheat septoria blotchseptoria (),wheat septoria blotch Google
+wheat_septoria_blotch_google_septoria (6).jpg,wheat_septoria_blotch_Google_0016.jpg,train,test,0,0.9999997615814208,0.979753821349952,wheat septoria blotchseptoria (),wheat septoria blotch Google
+wheat_stem_rust_Bing_0001.jpg,wheat_stem_rust_Bing_0111.jpg,train,val,0,1.0,0.945043103448276,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0007.jpg,wheat_stem_rust_Bing_0013.jpg,train,train,0,0.9999393224716188,0.9087458023069062,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0007.jpg,wheat_stem_rust_Google_0052.jpg,train,train,0,0.9999393224716188,0.9159336697909156,wheat stem rust Bing,wheat stem rust Google
+wheat_stem_rust_Bing_0007.jpg,wheat_stem_rust_Bing_0206.jpg,train,test,0,0.9999241232872008,0.920857262921978,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0013.jpg,wheat_stem_rust_Google_0052.jpg,train,train,0,1.0,0.9175995024875622,wheat stem rust Bing,wheat stem rust Google
+wheat_stem_rust_Bing_0013.jpg,wheat_stem_rust_Bing_0206.jpg,train,test,0,0.999907612800598,0.9132007233273056,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0027.jpg,wheat_stem_rust_Bing_0274.jpg,train,train,2,0.9968693256378174,0.8891537544696066,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0046.jpg,wheat_stem_rust_Bing_0104.jpg,train,train,0,0.9985964298248292,0.9485890993428682,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0048.jpg,wheat_stem_rust_Bing_0124.jpg,train,train,2,0.9996057748794556,0.8632507634882932,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0050.jpg,wheat_stem_rust_Bing_0071.jpg,train,train,0,1.0,0.8265712012728719,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0050.jpg,wheat_stem_rust_Bing_0238.jpg,train,train,0,0.999944031238556,0.7653936087295401,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0065.jpg,wheat_stem_rust_Google_0312.jpg,train,val,0,0.9957916736602784,0.8037765538945713,wheat stem rust Bing,wheat stem rust Google
+wheat_stem_rust_Bing_0071.jpg,wheat_stem_rust_Bing_0238.jpg,train,train,0,0.999944031238556,0.8876749743939911,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0078.jpg,wheat_stem_rust_Bing_0185.jpg,train,train,0,0.9995992183685304,0.918606888589571,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0078.jpg,wheat_stem_rust_Bing_0002.jpg,train,test,0,1.0000001192092896,0.9112221368178324,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0136.jpg,wheat_stem_rust_Bing_0016.jpg,train,test,0,0.999783217906952,0.806472673008767,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0137.jpg,wheat_stem_rust_Bing_0014.jpg,train,val,0,0.9995655417442322,0.6770267333188438,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0139.jpg,wheat_stem_rust_Bing_0169.jpg,train,train,2,0.9984443187713624,0.9165113678717852,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0150.jpg,wheat_stem_rust_Google_0119.jpg,train,val,0,0.9998791217803956,0.3988535944590399,wheat stem rust Bing,wheat stem rust Google
+wheat_stem_rust_Bing_0150.jpg,wheat_stem_rust_Bing_0005.jpg,train,test,0,0.9998668432235718,0.8010962701612904,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0152.jpg,wheat_stem_rust_Bing_0271.jpg,train,train,2,0.9987287521362304,0.7482842251922184,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0167.jpg,wheat_stem_rust_Bing_0247.jpg,train,test,0,0.9999998807907104,0.9855440334313572,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0173.jpg,wheat_stem_rust_Google_0071.jpg,train,test,2,0.9654461741447448,0.5142857142857142,wheat stem rust Bing,wheat stem rust Google
+wheat_stem_rust_Bing_0185.jpg,wheat_stem_rust_Bing_0002.jpg,train,test,0,0.9995992183685304,0.9142623286269695,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0197.jpg,wheat_stem_rust_Bing_0076.jpg,train,val,0,0.9992884397506714,0.4978803579839849,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Bing_0197.jpg,wheat_stem_rust_Baidu_0003.jpg,train,test,0,0.9981502294540404,0.7287693785155714,wheat stem rust Bing,wheat stem rust Baidu
+wheat_stem_rust_Bing_0257.jpg,wheat_stem_rust_Bing_0171.jpg,train,val,0,1.0,0.909904868494684,wheat stem rust Bing,wheat stem rust Bing
+wheat_stem_rust_Google_0028.jpg,wheat_stem_rust_Bing_0070.jpg,train,test,0,1.0,0.9423994623053658,wheat stem rust Google,wheat stem rust Bing
+wheat_stem_rust_Google_0035.jpg,wheat_stem_rust_Bing_0040.jpg,train,test,0,0.9999998211860656,0.926052332195677,wheat stem rust Google,wheat stem rust Bing
+wheat_stem_rust_Google_0052.jpg,wheat_stem_rust_Bing_0206.jpg,train,test,0,0.999907612800598,0.9282951502529008,wheat stem rust Google,wheat stem rust Bing
+wheat_stripe_rust_Baidu_0027.jpg,wheat_stripe_rust_Baidu_0466.jpg,train,val,0,0.9990640878677368,0.902502801643631,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Baidu_0027.jpg,wheat_stripe_rust_Baidu_0484.jpg,train,test,0,0.9990640878677368,0.8873028663520203,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Baidu_0129.jpg,garlic_rust_98.jpg,train,test,0,0.9998706579208374,0.3813647384828542,wheat stripe rust Baidu,garlic rust
+wheat_stripe_rust_Baidu_0165.jpg,wheat_stripe_rust_Baidu_0359.jpg,train,train,2,0.9899353981018066,0.9111528106388186,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Baidu_0165.jpg,wheat_stripe_rust_Baidu_0317.jpg,train,test,2,0.9774911403656006,0.9062608695652172,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Baidu_0196.jpg,wheat_stripe_rust_Baidu_0106.jpg,train,test,0,1.0,0.8133248384454355,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Baidu_0289.jpg,wheat_stripe_rust_Baidu_0316.jpg,train,train,0,0.999334454536438,0.9449321628092576,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Baidu_0359.jpg,wheat_stripe_rust_Baidu_0317.jpg,train,test,2,0.9830191731452942,0.9052354730007396,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Baidu_0456.jpg,wheat_stripe_rust_Baidu_0120.jpg,train,test,2,0.9970983862876892,0.855597390889325,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Baidu_0468.jpg,wheat_stripe_rust_Baidu_0487.jpg,train,val,0,1.0,0.8258727778967659,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Bing_0001.jpg,wheat_stripe_rust_Bing_0082.jpg,train,train,0,0.9996362924575806,0.9553526578613007,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0004.jpg,wheat_stripe_rust_Bing_0078.jpg,train,train,0,1.0000001192092896,0.7866224859366572,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0006.jpg,wheat_stripe_rust_Google_0029.jpg,train,test,0,0.9999998211860656,0.8435882083612158,wheat stripe rust Bing,wheat stripe rust Google
+wheat_stripe_rust_Bing_0021.jpg,wheat_stripe_rust_Bing_0089.jpg,train,train,0,1.0000001192092896,0.9274151436031332,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0023.jpg,wheat_stripe_rust_Bing_0076.jpg,train,train,0,1.0,0.9267489711934156,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0025.jpg,wheat_stripe_rust_Bing_0194.jpg,train,train,0,1.0000001192092896,0.8972162740899358,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0027.jpg,wheat_stripe_rust_Bing_0084.jpg,train,test,0,1.0,0.8884819086274316,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0029.jpg,wheat_stripe_rust_Bing_0081.jpg,train,train,0,1.0000001192092896,0.9151984643860972,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0031.jpg,wheat_stripe_rust_Bing_0173.jpg,train,test,0,1.0,0.9399575371549894,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0038.jpg,wheat_stripe_rust_Bing_0272.jpg,train,train,0,1.0,0.8235294117647058,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0039.jpg,wheat_stripe_rust_Bing_0096.jpg,train,train,0,0.9999998807907104,0.9481733220050976,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0042.jpg,wheat_stripe_rust_Bing_0153.jpg,train,train,0,0.9999999403953552,0.9424491562094331,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0047.jpg,wheat_stripe_rust_Bing_0151.jpg,train,val,0,1.0000001192092896,0.8873239436619719,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0048.jpg,wheat_stripe_rust_Bing_0122.jpg,train,train,0,0.9999999403953552,0.924992499249925,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0063.jpg,wheat_stripe_rust_Bing_0240.jpg,train,val,0,0.9999999403953552,0.9219617761322452,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0079.jpg,wheat_stripe_rust_Google_0311.jpg,train,train,0,0.999092698097229,0.8650219360720187,wheat stripe rust Bing,wheat stripe rust Google
+wheat_stripe_rust_Bing_0095.jpg,wheat_stripe_rust_Bing_0037.jpg,train,val,0,1.0,0.909361622929462,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0114.jpg,wheat_stripe_rust_Bing_0033.jpg,train,val,0,0.9997377991676332,0.5435645435645435,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0114.jpg,wheat_stripe_rust_Bing_0083.jpg,train,test,0,0.9997377991676332,0.7033158813263525,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0125.jpg,wheat_stripe_rust_Bing_0014.jpg,train,val,0,0.9999998807907104,0.9704611461358644,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0130.jpg,wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (25).jpg,train,test,0,0.9999428391456604,0.6648501362397821,wheat stripe rust Bing,wheat bacterial leaf streak (black chaff) black chaff ()
+wheat_stripe_rust_Bing_0263.jpg,wheat_stripe_rust_Google_0223.jpg,train,test,0,0.9998741149902344,0.9673227594114274,wheat stripe rust Bing,wheat stripe rust Google
+wheat_stripe_rust_Google_0004.jpg,wheat_stripe_rust_Bing_0224.jpg,train,test,0,1.0,0.8945335710041592,wheat stripe rust Google,wheat stripe rust Bing
+wheat_stripe_rust_Google_0009.jpg,wheat_stripe_rust_Bing_0145.jpg,train,val,0,0.9999999403953552,0.9728501432054348,wheat stripe rust Google,wheat stripe rust Bing
+wheat_stripe_rust_Google_0022.jpg,wheat_stripe_rust_Bing_0241.jpg,train,test,0,0.999514102935791,0.9708408679927668,wheat stripe rust Google,wheat stripe rust Bing
+wheat_stripe_rust_Google_0123.jpg,wheat_leaf_rust_Google_0374.jpg,train,test,0,0.9999998807907104,0.625,wheat stripe rust Google,wheat leaf rust Google
+wheat_stripe_rust_Google_0149.jpg,wheat_stripe_rust_Bing_0126.jpg,train,val,0,1.0,0.9588003031149044,wheat stripe rust Google,wheat stripe rust Bing
+zucchini_bacterial_wilt_Bing_0013.jpg,zucchini_bacterial_wilt_Google_0075.jpg,train,train,0,0.9992283582687378,0.6938761320377549,zucchini bacterial wilt Bing,zucchini bacterial wilt Google
+zucchini_bacterial_wilt_Bing_0013.jpg,cucumber_bacterial_wilt_google_0030.jpg,train,test,0,0.99896639585495,0.4982737134568633,zucchini bacterial wilt Bing,cucumber bacterial wilt
+zucchini_bacterial_wilt_Bing_0163.jpg,cucumber_bacterial_wilt_google_0076.jpg,train,test,0,0.998695433139801,0.6109150865622424,zucchini bacterial wilt Bing,cucumber bacterial wilt
+zucchini_bacterial_wilt_Google_0008.jpg,zucchini_bacterial_wilt_Bing_0019.jpg,train,test,0,1.0,1.0,zucchini bacterial wilt Google,zucchini bacterial wilt Bing
+zucchini_bacterial_wilt_Google_0075.jpg,cucumber_bacterial_wilt_google_0030.jpg,train,test,0,0.9981204271316528,0.4452075426230495,zucchini bacterial wilt Google,cucumber bacterial wilt
+zucchini_downy_mildew_Bing_0007.jpg,zucchini_downy_mildew_Bing_0078.jpg,train,train,0,0.9999786019325256,0.9362538819162424,zucchini downy mildew Bing,zucchini downy mildew Bing
+zucchini_downy_mildew_Bing_0143.jpg,zucchini_downy_mildew_Bing_0210.jpg,train,train,0,0.9999336004257202,1.0,zucchini downy mildew Bing,zucchini downy mildew Bing
+zucchini_powdery_mildew_Bing_0000.jpg,zucchini_powdery_mildew_Bing_0073.jpg,train,train,2,0.9965830445289612,0.8878376804843968,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0015.jpg,zucchini_powdery_mildew_Bing_0036.jpg,train,train,0,0.9997191429138184,0.9824084788113564,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0016.jpg,zucchini_powdery_mildew_Bing_0057.jpg,train,train,0,0.9998112916946412,0.8073993471164309,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0037.jpg,zucchini_powdery_mildew_Bing_0002.jpg,train,test,0,0.9998784065246582,0.9103526591382248,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0053.jpg,zucchini_powdery_mildew_Bing_0096.jpg,train,val,0,0.9997518658638,1.0,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0058.jpg,squash_powdery_mildew_google_0327.jpg,train,test,0,0.9973371028900146,0.9093649161377256,zucchini powdery mildew Bing,squash powdery mildew
+zucchini_powdery_mildew_Bing_0075.jpg,zucchini_powdery_mildew_Bing_0203.jpg,train,train,0,0.999485433101654,0.9824464153732446,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0084.jpg,squash_powdery_mildew_google_0285.jpg,train,val,0,0.9999344348907472,0.360033849835128,zucchini powdery mildew Bing,squash powdery mildew
+zucchini_powdery_mildew_Bing_0087.jpg,squash_powdery_mildew_google_0102.jpg,train,test,0,0.999853014945984,0.9335202432997528,zucchini powdery mildew Bing,squash powdery mildew
+zucchini_powdery_mildew_Bing_0090.jpg,zucchini_powdery_mildew_Google_0307.jpg,train,train,0,0.9997099041938782,0.8592647163668338,zucchini powdery mildew Bing,zucchini powdery mildew Google
+zucchini_powdery_mildew_Bing_0098.jpg,zucchini_powdery_mildew_Bing_0120.jpg,train,train,0,0.9995739459991456,0.8799887577290613,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0112.jpg,zucchini_powdery_mildew_Bing_0143.jpg,train,train,0,0.9998123049736024,1.0,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0140.jpg,zucchini_powdery_mildew_Bing_0183.jpg,train,train,0,0.9995567798614502,0.9433198380566802,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0140.jpg,zucchini_powdery_mildew_Bing_0109.jpg,train,test,0,0.9997454285621644,0.9433808553971488,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0169.jpg,zucchini_powdery_mildew_Google_0370.jpg,train,train,0,0.9988062381744384,0.9517588124116924,zucchini powdery mildew Bing,zucchini powdery mildew Google
+zucchini_powdery_mildew_Bing_0176.jpg,squash_powdery_mildew_17.jpg,train,test,0,0.9965699911117554,0.953157935826372,zucchini powdery mildew Bing,squash powdery mildew
+zucchini_powdery_mildew_Bing_0183.jpg,zucchini_powdery_mildew_Bing_0109.jpg,train,test,0,0.9998040795326232,0.9496957403651116,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0230.jpg,zucchini_powdery_mildew_Bing_0357.jpg,train,train,0,0.9983677864074708,0.9861142842637016,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0230.jpg,cucumber_powdery_mildew_google_0080.jpg,train,test,0,0.9982619285583496,0.9636006200798484,zucchini powdery mildew Bing,cucumber powdery mildew
+zucchini_powdery_mildew_Bing_0230.jpg,zucchini_powdery_mildew_Bing_0336.jpg,train,test,0,0.9983677864074708,0.9901889321771188,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0238.jpg,cucumber_powdery_mildew_google_0002.jpg,train,val,0,0.9998353719711304,0.9697005726968274,zucchini powdery mildew Bing,cucumber powdery mildew
+zucchini_powdery_mildew_Bing_0238.jpg,zucchini_powdery_mildew_Bing_0253.jpg,train,val,0,0.9997122287750244,0.9726847707152094,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0281.jpg,zucchini_powdery_mildew_Bing_0321.jpg,train,train,0,1.0,0.9575523815263464,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0282.jpg,zucchini_powdery_mildew_Bing_0322.jpg,train,train,0,1.0,0.855993123187516,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0282.jpg,zucchini_powdery_mildew_Bing_0004.jpg,train,test,0,0.9998128414154052,0.8353956834532374,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0283.jpg,zucchini_powdery_mildew_Bing_0324.jpg,train,train,0,0.9999998807907104,0.9695941793869676,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0297.jpg,zucchini_powdery_mildew_Bing_0337.jpg,train,test,0,1.0000001192092896,0.8963966266291847,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0298.jpg,zucchini_powdery_mildew_Bing_0341.jpg,train,train,0,1.0,0.8849355237182669,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0322.jpg,zucchini_powdery_mildew_Bing_0004.jpg,train,test,0,0.9998128414154052,0.9503293851849366,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0330.jpg,zucchini_powdery_mildew_Bing_0289.jpg,train,test,0,0.9999998807907104,0.8429416179997437,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0357.jpg,cucumber_powdery_mildew_google_0080.jpg,train,test,0,0.9999123811721802,0.9557081664152056,zucchini powdery mildew Bing,cucumber powdery mildew
+zucchini_powdery_mildew_Bing_0357.jpg,zucchini_powdery_mildew_Bing_0336.jpg,train,test,0,1.0,0.9897661309264169,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Google_0080.jpg,squash_powdery_mildew_google_0039.jpg,train,val,0,0.999731421470642,0.7888722448106141,zucchini powdery mildew Google,squash powdery mildew
+zucchini_powdery_mildew_Google_0090.jpg,zucchini_powdery_mildew_Google_0114.jpg,train,train,0,1.0,1.0,zucchini powdery mildew Google,zucchini powdery mildew Google
+banana_black_leaf_streak_Bing_0026.jpg,banana_black_leaf_streak_banana black sigatoka (52).jpg,val,val,0,0.9999998807907104,0.8889858021999322,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_banana black sigatoka (54).jpg,banana_black_leaf_streak_Bing_0013.jpg,val,test,0,0.9999999403953552,0.9537679394164064,banana black leaf streak banana black sigatoka (),banana black leaf streak Bing
+banana_bunchy_top_Bing_0168.jpg,banana_bunchy_top_Bing_0100.jpg,val,test,0,1.0,0.1545678433212149,banana bunchy top Bing,banana bunchy top Bing
+banana_cigar_end_rot_Bing_0071.jpg,banana_cigar_end_rot_Bing_0014.jpg,val,test,0,0.9997525215148926,0.9091543967875224,banana cigar end rot Bing,banana cigar end rot Bing
+bell_pepper_blossom_end_rot_Bing_0005.jpg,bell_pepper_blossom_end_rot_Bing_0046.jpg,val,test,0,0.9998762607574464,0.981469609549104,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0011.jpg,bell_pepper_bacterial_spot_Bing_0002.jpg,val,test,0,0.9999999403953552,0.8437610463061153,bell pepper frogeye leaf spot Bing,bell pepper bacterial spot Bing
+bell_pepper_powdery_mildew_Bing_0036.jpg,bell_pepper_powdery_mildew_Bing_0001.jpg,val,test,0,0.9998433589935304,0.9743451981195432,bell pepper powdery mildew Bing,bell pepper powdery mildew Bing
+blueberry_anthracnose_Bing_0003.jpg,blueberry_anthracnose_Bing_0128.jpg,val,test,0,0.9996820092201232,0.8327746741154562,blueberry anthracnose Bing,blueberry anthracnose Bing
+blueberry_mummy_berry_Bing_0306.jpg,blueberry_mummy_berry_Google_0038.jpg,val,test,0,0.9988570213317872,0.9831750210114016,blueberry mummy berry Bing,blueberry mummy berry Google
+broccoli_alternaria_leaf_spot_Bing_0012.jpg,broccoli_alternaria_leaf_spot_Google_0005.jpg,val,test,0,1.0,0.0,broccoli alternaria leaf spot Bing,broccoli alternaria leaf spot Google
+broccoli_alternaria_leaf_spot_Bing_0165.jpg,broccoli_ring_spot_Bing_0020.jpg,val,val,0,0.9999998807907104,0.9708442123585728,broccoli alternaria leaf spot Bing,broccoli ring spot Bing
+broccoli_downy_mildew_google_0251.jpg,lettuce_downy_mildew_google_0049.jpg,val,val,0,0.9999998807907104,0.6079237525696132,broccoli downy mildew,lettuce downy mildew
+carrot_alternaria_leaf_blight_Bing_0158.jpg,carrot_cercospora_leaf_blight_Bing_0016.jpg,val,val,0,1.0,0.4946428571428571,carrot alternaria leaf blight Bing,carrot cercospora leaf blight Bing
+celery_early_blight_google_0109.jpg,tomato_septoria_leaf_spot_google_0039.jpg,val,val,0,0.9999999403953552,0.6951814332422147,celery early blight,tomato septoria leaf spot
+coffee_berry_blotch_Bing_0020.jpg,coffee_berry_blotch_Bing_0117.jpg,val,test,0,0.9997501373291016,0.9410558687852384,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0076.jpg,coffee_berry_blotch_Bing_0105.jpg,val,test,0,0.9998579025268556,0.7714987714987716,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_berry_blotch_Bing_0107.jpg,coffee_berry_blotch_Bing_0049.jpg,val,test,0,0.9964935183525084,0.7175156633070008,coffee berry blotch Bing,coffee berry blotch Bing
+coffee_leaf_rust_59.jpg,coffee_leaf_rust_google_0130.jpg,val,test,2,0.9986813068389891,0.8831186440677966,coffee leaf rust,coffee leaf rust
+cucumber_powdery_mildew_145.jpg,cucumber_powdery_mildew_26.jpg,val,test,2,0.9941288232803344,0.915560066536976,cucumber powdery mildew,cucumber powdery mildew
+cucumber_powdery_mildew_google_0002.jpg,zucchini_powdery_mildew_Bing_0253.jpg,val,val,0,0.999774932861328,0.9812257564003104,cucumber powdery mildew,zucchini powdery mildew Bing
+cucumber_powdery_mildew_google_0036.jpg,squash_powdery_mildew_google_0191.jpg,val,test,0,1.0,0.741330863053883,cucumber powdery mildew,squash powdery mildew
+cucumber_powdery_mildew_google_0036.jpg,zucchini_powdery_mildew_Google_0045.jpg,val,test,2,0.9998050332069396,0.9167555608233574,cucumber powdery mildew,zucchini powdery mildew Google
+eggplant_phomopsis_fruit_rot_Bing_0004.jpg,eggplant_phomopsis_fruit_rot_Google_0002.jpg,val,val,0,0.99870765209198,0.9781839137235532,eggplant phomopsis fruit rot Bing,eggplant phomopsis fruit rot Google
+peach_brown_rot_Bing_0115.jpg,peach_brown_rot_Bing_0317.jpg,val,test,0,0.9996858835220336,0.9819863233741796,peach brown rot Bing,peach brown rot Bing
+peach_scab_Google_0239.jpg,peach_scab_Bing_0192.jpg,val,test,0,1.0000001192092896,0.9156316916488224,peach scab Google,peach scab Bing
+potato_early_blight_41.jpg,tomato_early_blight_246.jpg,val,val,0,0.9999998807907104,0.885833831440526,potato early blight,tomato early blight
+rice_sheath_blight_google_0028.jpg,ginger_sheath_blight_google_0007.jpg,val,test,0,0.9999999403953552,0.6926329276105061,rice sheath blight,ginger sheath blight
+soybean_downy_mildew_Bing_0003.jpg,soybean_downy_mildew_Bing_0067.jpg,val,val,2,0.9917325973510742,0.9803852409225404,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0003.jpg,soybean_downy_mildew_Bing_0072.jpg,val,test,2,0.9951284527778624,0.9850168782201868,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0006.jpg,soybean_downy_mildew_Google_0007.jpg,val,val,2,0.958116888999939,0.9048050405620308,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0006.jpg,soybean_downy_mildew_Bing_0045.jpg,val,test,0,0.99999737739563,0.9491677912730544,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Bing_0067.jpg,soybean_downy_mildew_Bing_0072.jpg,val,test,0,0.996270716190338,0.9853342694437944,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_downy_mildew_Google_0007.jpg,soybean_downy_mildew_Bing_0045.jpg,val,test,2,0.9581448435783386,0.9183208590953466,soybean downy mildew Google,soybean downy mildew Bing
+soybean_frog_eye_leaf_spot_Bing_0046.jpg,soybean_frog_eye_leaf_spot_Google_0018.jpg,val,val,0,1.0,0.6541735310269083,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_frog_eye_leaf_spot_Google_0114.jpg,soybean_frog_eye_leaf_spot_Bing_0007.jpg,val,test,0,0.999506652355194,0.8145719940623454,soybean frog eye leaf spot Google,soybean frog eye leaf spot Bing
+squash_powdery_mildew_google_0286.jpg,cucumber_powdery_mildew_google_0001.jpg,val,test,0,1.0000001192092896,0.7097056497080059,squash powdery mildew,cucumber powdery mildew
+tobacco_frogeye_leaf_spot_Bing_0037.jpg,tobacco_frogeye_leaf_spot_Bing_0000.jpg,val,test,0,0.998261570930481,0.9309756475880254,tobacco frogeye leaf spot Bing,tobacco frogeye leaf spot Bing
+tomato_mosaic_virus_13.jpg,tomato_yellow_leaf_curl_virus_4.jpg,val,test,0,0.9999998807907104,0.2625631411758579,tomato mosaic virus,tomato yellow leaf curl virus
+tomato_septoria_leaf_spot_google_0052.jpg,tomato_bacterial_leaf_spot_google_0163.jpg,val,test,0,1.0,0.3861941314170613,tomato septoria leaf spot,tomato bacterial leaf spot
+wheat_bacterial_leaf_streak_(black_chaff)_Google_0363.jpg,wheat_septoria_blotch_Google_0174.jpg,val,test,0,1.0,0.8766809290953546,wheat bacterial leaf streak (black chaff) Google,wheat septoria blotch Google
+wheat_head_scab_Baidu_0282.jpg,wheat_head_scab_Baidu_0404.jpg,val,test,0,1.0,0.5709187045604759,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0403.jpg,wheat_head_scab_Baidu_0281.jpg,val,test,0,1.0,0.7015718397166261,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Bing_0025.jpg,wheat_head_scab_Google_0057.jpg,val,test,0,1.0,0.7931782945736434,wheat head scab Bing,wheat head scab Google
+wheat_head_scab_Bing_0034.jpg,wheat_head_scab_Bing_0298.jpg,val,test,2,0.9982938766479492,0.7570273392375818,wheat head scab Bing,wheat head scab Bing
+wheat_head_scab_Google_0126.jpg,wheat_head_scab_Bing_0141.jpg,val,test,2,0.999912679195404,0.941692789968652,wheat head scab Google,wheat head scab Bing
+wheat_leaf_rust_Baidu_0197.jpg,wheat_leaf_rust_Baidu_0088.jpg,val,test,0,0.9999998807907104,0.9843919652551576,wheat leaf rust Baidu,wheat leaf rust Baidu
+wheat_powdery_mildew_Baidu_0000.jpg,wheat_powdery_mildew_Baidu_0186.jpg,val,val,4,0.9965805411338806,0.9051925561450288,wheat powdery mildew Baidu,wheat powdery mildew Baidu
+wheat_powdery_mildew_Bing_0059.jpg,wheat_powdery_mildew_Bing_0163.jpg,val,test,0,0.9999999403953552,0.9916769777192248,wheat powdery mildew Bing,wheat powdery mildew Bing
+wheat_septoria_blotch_Google_0272.jpg,wheat_septoria_blotch_blotch (6).jpg,val,val,0,0.9999380707740784,0.68001540238737,wheat septoria blotch Google,wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (16).jpg,wheat_septoria_blotch_blotch (111).jpg,val,test,0,1.0000001192092896,0.6876362503892868,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (82).jpg,wheat_bacterial_leaf_streak_(black_chaff)_Bing_0004.jpg,val,test,2,0.9995917081832886,0.9551061424444164,wheat septoria blotch blotch (),wheat bacterial leaf streak (black chaff) Bing
+wheat_stem_rust_Bing_0076.jpg,wheat_stem_rust_Baidu_0003.jpg,val,test,0,0.9986745119094848,0.4914326724679286,wheat stem rust Bing,wheat stem rust Baidu
+wheat_stem_rust_Google_0119.jpg,wheat_stem_rust_Bing_0005.jpg,val,test,0,0.9999054670333862,0.4250661409970431,wheat stem rust Google,wheat stem rust Bing
+wheat_stripe_rust_Baidu_0466.jpg,wheat_stripe_rust_Baidu_0484.jpg,val,test,0,1.0,0.8488670871291755,wheat stripe rust Baidu,wheat stripe rust Baidu
+wheat_stripe_rust_Bing_0033.jpg,wheat_stripe_rust_Bing_0083.jpg,val,test,0,1.0,0.7631537861046058,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0055.jpg,wheat_stripe_rust_Bing_0137.jpg,val,test,0,1.0,0.9405090463048144,wheat stripe rust Bing,wheat stripe rust Bing
+wheat_stripe_rust_Bing_0186.jpg,wheat_stripe_rust_Google_0213.jpg,val,val,2,0.999196469783783,0.8161222339304531,wheat stripe rust Bing,wheat stripe rust Google
+wheat_stripe_rust_Google_0143.jpg,wheat_stripe_rust_Bing_0225.jpg,val,test,0,1.0000001192092896,0.931106471816284,wheat stripe rust Google,wheat stripe rust Bing
+zucchini_powdery_mildew_Bing_0007.jpg,zucchini_powdery_mildew_Google_0187.jpg,val,val,0,1.0,1.0,zucchini powdery mildew Bing,zucchini powdery mildew Google
+zucchini_powdery_mildew_Bing_0062.jpg,zucchini_powdery_mildew_Bing_0083.jpg,val,val,2,0.9999383091926576,1.0,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0086.jpg,squash_powdery_mildew_google_0079.jpg,val,test,0,0.9997079968452454,0.8500418654722824,zucchini powdery mildew Bing,squash powdery mildew
+zucchini_powdery_mildew_Bing_0097.jpg,zucchini_powdery_mildew_Bing_0052.jpg,val,test,0,0.9979780912399292,0.9863880127502572,zucchini powdery mildew Bing,zucchini powdery mildew Bing
+zucchini_powdery_mildew_Bing_0175.jpg,squash_powdery_mildew_google_0006.jpg,val,test,0,0.9995671510696412,0.9360982063194166,zucchini powdery mildew Bing,squash powdery mildew
+apple_black_rot_18.jpg,apple_rust_96.jpg,test,test,0,0.9997739791870116,0.9211053837342495,apple black rot,apple rust
+banana_black_leaf_streak_Bing_0015.jpg,banana_black_leaf_streak_banana black sigatoka (28).jpg,test,test,0,1.0,0.9546471682057424,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_black_leaf_streak_Bing_0031.jpg,banana_black_leaf_streak_banana black sigatoka (36).jpg,test,test,0,0.9986687898635864,0.885429561772716,banana black leaf streak Bing,banana black leaf streak banana black sigatoka ()
+banana_bunchy_top_Bing_0020.jpg,banana_bunchy_top_Bing_0165.jpg,test,test,0,1.0,0.387459807073955,banana bunchy top Bing,banana bunchy top Bing
+bell_pepper_bacterial_spot_Bing_0008.jpg,bell_pepper_bacterial_spot_Bing_0036.jpg,test,test,0,0.9998962879180908,0.4147639484978541,bell pepper bacterial spot Bing,bell pepper bacterial spot Bing
+bell_pepper_blossom_end_rot_Bing_0004.jpg,bell_pepper_blossom_end_rot_Bing_0074.jpg,test,test,0,0.9999501705169678,0.9726898018880468,bell pepper blossom end rot Bing,bell pepper blossom end rot Bing
+bell_pepper_frogeye_leaf_spot_Bing_0008.jpg,soybean_frog_eye_leaf_spot_Bing_0003.jpg,test,test,0,0.9999998807907104,0.1637557477245633,bell pepper frogeye leaf spot Bing,soybean frog eye leaf spot Bing
+broccoli_alternaria_leaf_spot_Bing_0000.jpg,broccoli_ring_spot_Bing_0002.jpg,test,test,0,1.000000238418579,0.781038374717833,broccoli alternaria leaf spot Bing,broccoli ring spot Bing
+broccoli_alternaria_leaf_spot_Bing_0000.jpg,cauliflower_alternaria_leaf_spot_google_0002.jpg,test,test,0,0.9998231530189514,0.7375532383609928,broccoli alternaria leaf spot Bing,cauliflower alternaria leaf spot
+broccoli_alternaria_leaf_spot_Bing_0021.jpg,broccoli_alternaria_leaf_spot_Bing_0045.jpg,test,test,2,0.9953837394714355,1.0,broccoli alternaria leaf spot Bing,broccoli alternaria leaf spot Bing
+broccoli_alternaria_leaf_spot_Bing_0048.jpg,broccoli_ring_spot_Bing_0047.jpg,test,test,0,0.9999998807907104,0.97368243014681,broccoli alternaria leaf spot Bing,broccoli ring spot Bing
+broccoli_ring_spot_Bing_0002.jpg,cauliflower_alternaria_leaf_spot_google_0002.jpg,test,test,0,0.9998231530189514,0.7772982869098993,broccoli ring spot Bing,cauliflower alternaria leaf spot
+carrot_cercospora_leaf_blight_Bing_0009.jpg,carrot_cercospora_leaf_blight_Bing_0055.jpg,test,test,0,0.9994544982910156,0.5065073876139579,carrot cercospora leaf blight Bing,carrot cercospora leaf blight Bing
+coffee_berry_blotch_Bing_0006.jpg,coffee_brown_eye_spot_Bing_0036.jpg,test,test,0,1.0,0.9418360196215836,coffee berry blotch Bing,coffee brown eye spot Bing
+coffee_berry_blotch_Bing_0037.jpg,coffee_berry_blotch_Bing_0140.jpg,test,test,0,0.9998509883880616,0.9380695555142272,coffee berry blotch Bing,coffee berry blotch Bing
+cucumber_bacterial_wilt_google_0020.jpg,zucchini_bacterial_wilt_Bing_0170.jpg,test,test,0,0.9992790222167968,0.6273623773956035,cucumber bacterial wilt,zucchini bacterial wilt Bing
+cucumber_powdery_mildew_125.jpg,cucumber_powdery_mildew_178.jpg,test,test,0,0.9994747638702391,0.9116259050312822,cucumber powdery mildew,cucumber powdery mildew
+cucumber_powdery_mildew_google_0080.jpg,zucchini_powdery_mildew_Bing_0336.jpg,test,test,0,0.9999123811721802,0.9621980738528094,cucumber powdery mildew,zucchini powdery mildew Bing
+eggplant_cercospora_leaf_spot_google_0030.jpg,tomato_bacterial_leaf_spot_google_0087.jpg,test,test,0,0.9999999403953552,0.6438947781703965,eggplant cercospora leaf spot,tomato bacterial leaf spot
+grape_leaf_spot_google_0046.jpg,tomato_early_blight_google_0163.jpg,test,test,0,1.0,0.3367733058135534,grape leaf spot,tomato early blight
+soybean_downy_mildew_Bing_0031.jpg,soybean_downy_mildew_Google_0102.jpg,test,test,0,0.9999998807907104,0.973175943406012,soybean downy mildew Bing,soybean downy mildew Google
+soybean_downy_mildew_Bing_0054.jpg,soybean_downy_mildew_Bing_0087.jpg,test,test,0,0.9975940585136414,0.9711782074483284,soybean downy mildew Bing,soybean downy mildew Bing
+soybean_frog_eye_leaf_spot_Bing_0004.jpg,soybean_frog_eye_leaf_spot_Bing_0155.jpg,test,test,0,0.9991592168807985,0.9930631749802776,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Bing
+soybean_frog_eye_leaf_spot_Bing_0103.jpg,soybean_frog_eye_leaf_spot_Google_0128.jpg,test,test,0,0.999560296535492,0.6692543667438803,soybean frog eye leaf spot Bing,soybean frog eye leaf spot Google
+soybean_mosaic_Bing_0036.jpg,soybean_mosaic_Bing_0231.jpg,test,test,0,0.9998369216918944,0.9591577879249112,soybean mosaic Bing,soybean mosaic Bing
+squash_powdery_mildew_google_0191.jpg,zucchini_powdery_mildew_Google_0045.jpg,test,test,2,0.9998050332069396,0.78888558692422,squash powdery mildew,zucchini powdery mildew Google
+squash_powdery_mildew_google_0196.jpg,zucchini_powdery_mildew_Google_0118.jpg,test,test,0,0.9998397827148438,0.7268513219640609,squash powdery mildew,zucchini powdery mildew Google
+tobacco_blue_mold_Bing_0107.jpg,tobacco_brown_spot_Bing_0159.jpg,test,test,0,1.0,0.7206520310240568,tobacco blue mold Bing,tobacco brown spot Bing
+tobacco_brown_spot_Bing_0003.jpg,tobacco_brown_spot_Bing_0044.jpg,test,test,0,0.9990854859352112,0.9233038348082596,tobacco brown spot Bing,tobacco brown spot Bing
+tomato_early_blight_google_0059.jpg,tomato_septoria_leaf_spot_google_0070.jpg,test,test,0,0.9995639324188232,0.7170855940648876,tomato early blight,tomato septoria leaf spot
+tomato_early_blight_google_0177.jpg,tomato_septoria_leaf_spot_google_0081.jpg,test,test,0,1.0,0.4601335319759422,tomato early blight,tomato septoria leaf spot
+tomato_mosaic_virus_143.jpg,tomato_yellow_leaf_curl_virus_40.jpg,test,test,0,1.0,0.2416439712800198,tomato mosaic virus,tomato yellow leaf curl virus
+tomato_mosaic_virus_16.jpg,tomato_yellow_leaf_curl_virus_62.jpg,test,test,0,0.9995540380477904,0.795803166032642,tomato mosaic virus,tomato yellow leaf curl virus
+wheat_head_scab_Baidu_0101.jpg,wheat_head_scab_Baidu_0185.jpg,test,test,2,0.9955993890762328,0.9066610544038723,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Baidu_0137.jpg,wheat_head_scab_Baidu_0297.jpg,test,test,0,1.0,0.5438039037675897,wheat head scab Baidu,wheat head scab Baidu
+wheat_head_scab_Bing_0287.jpg,wheat_head_scab_Bing_0319.jpg,test,test,0,0.9975396394729614,0.0,wheat head scab Bing,wheat head scab Bing
+wheat_loose_smut_Bing_0176.jpg,wheat_loose_smut_Bing_0203.jpg,test,test,0,0.9999999403953552,0.959904638058084,wheat loose smut Bing,wheat loose smut Bing
+wheat_powdery_mildew_Bing_0016.jpg,wheat_powdery_mildew_Google_0051.jpg,test,test,2,0.9665403962135316,0.9712380158399332,wheat powdery mildew Bing,wheat powdery mildew Google
+wheat_powdery_mildew_Bing_0214.jpg,wheat_powdery_mildew_Google_0263.jpg,test,test,0,0.9999015927314758,0.946574624655412,wheat powdery mildew Bing,wheat powdery mildew Google
+wheat_septoria_blotch_blotch (10).jpg,wheat_septoria_blotch_blotch (113).jpg,test,test,0,1.0,0.9665828242903342,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (12).jpg,wheat_septoria_blotch_blotch (87).jpg,test,test,0,1.0,0.8835677940736306,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_septoria_blotch_blotch (27).jpg,wheat_septoria_blotch_blotch (50).jpg,test,test,0,1.0,0.9285495455628552,wheat septoria blotch blotch (),wheat septoria blotch blotch ()
+wheat_stripe_rust_Bing_0002.jpg,wheat_stripe_rust_Google_0045.jpg,test,test,0,1.0,0.9691197691197692,wheat stripe rust Bing,wheat stripe rust Google
+zucchini_powdery_mildew_Bing_0308.jpg,zucchini_powdery_mildew_Bing_0347.jpg,test,test,0,1.0000001192092896,0.9704527581170656,zucchini powdery mildew Bing,zucchini powdery mildew Bing

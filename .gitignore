@@ -1,0 +1,6 @@
+plantseg/
+results/cache/
+*.pth
+*.npz
+.venv/
+__pycache__/

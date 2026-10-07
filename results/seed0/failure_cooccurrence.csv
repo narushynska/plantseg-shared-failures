@@ -1,0 +1,5 @@
+,unet,att_unet,fpn,deeplabv3p
+unet,26,421,445,435
+att_unet,421,42,443,435
+fpn,445,443,42,445
+deeplabv3p,435,435,445,33

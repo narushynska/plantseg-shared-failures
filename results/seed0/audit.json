@@ -1,0 +1,20 @@
+{
+ "n_shared": 363,
+ "n_AB_screened": 114,
+ "human_A": 25,
+ "human_B": 53,
+ "human_C_in_AB": 29,
+ "human_D_in_AB": 7,
+ "n_CD": 249,
+ "sample_n": 30,
+ "sample_A": 2,
+ "sample_B": 2,
+ "est_A": 41.6,
+ "est_B": 69.6,
+ "est_AB_frac": 0.30633608815426994,
+ "confirmed_AB_frac": 0.21487603305785125,
+ "est_AB_frac_lo": 0.24063586938912523,
+ "est_AB_frac_hi": 0.425612587379492,
+ "precision_A": 0.6578947368421053,
+ "precision_B": 0.6973684210526315
+}
