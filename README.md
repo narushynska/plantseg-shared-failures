@@ -26,7 +26,7 @@ The images and masks are **not** included. Download PlantSeg v2 from Zenodo (doi
 | `results/seed0/` | Per-image results and summaries for seed 0, aggregated tables (`results.json`, `accuracy_per_seed.csv`, `failure_by_size.csv`, `failure_cooccurrence.csv`), leakage and audit statistics. |
 | `results/benchmark/edge_benchmark.csv` | CPU latency, parameters, MACs and ONNX file size. |
 
-Seeds 1 and 2 are still training; their results will be added.
+`results/seed1/` holds an additional U-Net run with seed 1. The remaining seed-1 and seed-2 runs are still training and will be added.
 
 ## Reproduce
 
